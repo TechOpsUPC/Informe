@@ -476,6 +476,15 @@ En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos
 
 
 ### 2.3.3. User Journey Mapping  
+
+|**`USER JOURNEY MAPPING: Ciudadano Universitario/Trabajador Promedio`**|
+|---|
+|<img src="src/images/journey_mapping_ana.png" alt="as-Ciudadano Universitario/Trabajador Promedio" style="width:100%">|
+
+|**`USER JOURNEY MAPPING: Creador de Contenido de Salud Mental`**|
+|---|
+|<img src="src/images/journey_mapping_jorge.png" alt="as-Creador de Contenido de Salud Mental" style="width:100%">|
+
 ### 2.3.4. Empathy Mapping  
 ### 2.3.5. As-is Scenario Mapping  
 ## 2.4. Ubiquitous Language  
