@@ -293,6 +293,13 @@ El producto debe verse amigable con el usuario, funcional y simple de usar, esto
 ![canvas](images/leancanvasUX.JPG)
 
 ## 1.3. Segmentos objetivo  
+
+Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los cuales son: 
+
+* **Ciudadano universitario/trabajador promedio:** se considera a un usuario, en el rango de edades de 18 a 50 años aproximadamente, el cual presenta problemas relacionados con cansancio mental a raíz del estrés académico o laboral. 
+
+* **Creador de contenido de salud mental:** personas involucradas en la creación de películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental.
+
 # Capítulo II: Requirements Elicitation & Analysis  
 ## 2.1 Competidores  
 ## 2.2. Entrevistas  
