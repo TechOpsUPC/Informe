@@ -498,6 +498,17 @@ Esta sección presenta el mapeo de empatía para los segmentos de personas inter
 |<img src="src/images/empathy_mapping_jorge.png" alt="empathy-mapping Creador de Contenido de Salud Mental" style="width:100%">|
 
 ### 2.3.5. As-is Scenario Mapping  
+
+En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User Persona, destacando el proceso de preparación, lluvia de ideas individual, revisión y identificación de fases. Se incluyen las filas Phases, Doing, Thinking y Feeling, con áreas positivas, negativas y blank areas para usuarios. El objetivo es proporcionar una visualización detallada del proceso actual y áreas de mejora para cada persona del usuario.
+
+|**`AS-IS SCENARIO MAPPING: Ciudadano Universitario/Trabajador Promedio`**|
+|---|
+|<img src="src/images/as-is_ana.png" alt="as-is Ciudadano Universitario/Trabajador Promedio" style="width:100%">|
+
+|**`AS-IS SCENARIO MAPPING: Creador de Contenido de Salud Mental`**|
+|---|
+|<img src="src/images/as-is_jorge.png" alt="as-is Creador de Contenido de Salud Mental" style="width:100%">|
+
 ## 2.4. Ubiquitous Language  
 # Capítulo III: Requirements Specification  
 ## 3.1. To-Be Scenario Mapping  
