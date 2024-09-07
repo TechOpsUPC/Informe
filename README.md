@@ -317,6 +317,59 @@ Nuestras principales estrategias y tácticas que lanzaríamos como startup, esta
 En esta sección se aborda la investigación tomando como base la recolección de información en base a entrevistas a representantes de los segmentos objetivo. Es decir, entrevistaremos a nuestro público objetivo para asi tener más de cerca algunos testimonios y poder trabajar en base a ellos.
 
 ### 2.2.1. Diseño de entrevistas  
+
+A continuación, encontrarás un diseño de una lista de preguntas principales y adicionales para las entrevistas, adaptadas a cada grupo identificado. Estas preguntas nos ayudarán a recopilar datos importantes sobre las características y comportamientos de las personas:
+
+<p><strong>Preguntas Principales para Ciudadano Universitario/Trabajador Promedio:</strong></p>
+<ul>
+    <li><strong>Preguntas personales:</strong> 
+        <ul>
+            <li>¿Cuál es su nombre completo?</li>
+            <li>¿Cuál es su edad?</li>
+            <li>¿Dónde reside actualmente?</li>
+            <li>¿Cuál es su estado civil?</li>
+            <li>¿A qué se dedica profesionalmente o qué estudia?</li>
+            <li>¿cómo estás emocionalmente en esta semana?</li>
+        </ul>
+    </li>
+    <li><strong>Preguntas centrada al tema:</strong> 
+        <ul>
+            <li>¿Qué actividades realizas para aliviar el estrés y mejorar tu bienestar mental?</li>
+            <li>¿Con qué frecuencia ves contenido audiovisual? (Ejemplo: películas, series, documentales, etc)</li>
+            <li>¿Qué tipo de contenido te resulta más relajante o cómoda para tu bienestar mental?</li>
+            <li>¿Has utilizado alguna aplicación o plataforma que ofrezca contenido enfocado en la salud mental? ¿Cuál?</li>
+            <li>¿Cuáles son tus principales frustraciones al momento de buscar contenido que te ayude a reducir el estrés?</li>
+            <li>¿Cómo prefieres consumir contenido audiovisual: en tu computadora, celular, o TV?</li>
+            <li>¿Participarías en una comunidad online que te ofrezca recomendaciones personalizadas de contenido para mejorar tu bienestar mental?</li>
+        </ul>
+    </li>
+</ul>
+
+<p><strong>Preguntas Principales para Creador de Contenido de Salud Mental:</strong></p>
+<ul>
+    <li><strong>Preguntas personales:</strong> 
+        <ul>
+            <li>¿Cuál es su nombre completo?</li>
+            <li>¿Cuál es su edad?</li>
+            <li>¿Dónde reside actualmente?</li>
+            <li>¿Cuál es su estado civil?</li>
+            <li>¿A qué se dedica profesionalmente?</li>
+            <li>¿Qué dispositivos utilizas principalmente para crear y distribuir tu contenido?</li>
+        </ul>
+    </li>
+    <li><strong>Preguntas centrada al tema:</strong> 
+        <ul>
+            <li>¿Qué tipo de contenido relacionado con la salud mental creas? (Ejemplo: videos, artículos, podcasts, etc)</li>
+            <li>¿Cuáles son los temas de salud mental que más te interesa promover y por qué?</li>
+            <li>¿Qué desafíos enfrentas usualmente al dar tu contenido?</li>
+            <li>Cuáles son las plataformas específicas para promocionar tu contenido?</li>
+            <li>¿Qué tipo de apoyo o recursos consideras necesarios para mejorar la difusión de tu contenido?</li>
+            <li>¿Cómo te beneficiarías de una plataforma que promueva contenido de bienestar mental entre su audiencia?</li>
+            <li>¿Qué molestia te encontraste en tu experiencia de crear contenidos de salud mental y compartir a las personas que le interesa en ese tema?</li>
+        </ul>
+    </li>
+</ul>
+
 ### 2.2.2. Registro de entrevistas  
 ### 2.2.3. Análisis de entrevistas  
 ## 2.3. Needfinding  
