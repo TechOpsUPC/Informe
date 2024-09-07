@@ -486,6 +486,17 @@ En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos
 |<img src="src/images/journey_mapping_jorge.png" alt="as-Creador de Contenido de Salud Mental" style="width:100%">|
 
 ### 2.3.4. Empathy Mapping  
+
+Esta sección presenta el mapeo de empatía para los segmentos de personas interesadas en agricultura y persona con experiencia en cuidado de plantas, ofreciendo una visión detallada de las necesidades, preocupaciones y beneficios desde la perspectiva del usuario.
+
+|**`EMPATHY MAPPING: Ciudadano Universitario/Trabajador Promedio`**|
+|---|
+|<img src="src/images/empathy_mapping_ana.png" alt="empathy-mapping Ciudadano Universitario/Trabajador Promedio" style="width:100%">|
+
+|**`EMPATHY MAPPING: Creador de Contenido de Salud Mental`**|
+|---|
+|<img src="src/images/empathy_mapping_jorge.png" alt="empathy-mapping Creador de Contenido de Salud Mental" style="width:100%">|
+
 ### 2.3.5. As-is Scenario Mapping  
 ## 2.4. Ubiquitous Language  
 # Capítulo III: Requirements Specification  
