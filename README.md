@@ -177,7 +177,15 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ---  
 # Capítulo I: Introducción  
 ## 1.1. Startup Profile  
+
 ### 1.1.1 Descripción de la Startup  
+
+TechOps presenta ZenFlicks, una innovadora aplicación diseñada para ayudar a las personas a aliviar el estrés diario a través de recomendaciones personalizadas de películas, series y documentales. ZenFlicks no solo se enfoca en el bienestar mental de los usuarios, sino que también ofrece una plataforma para que los creadores de contenido promocionen sus obras relacionadas con la salud mental y el bienestar.
+
+**Objetivo:** Proporcionar una plataforma innovadora que ayude a las personas a aliviar el estrés y mejorar su bienestar mental a través de recomendaciones personalizadas de contenido audiovisual, mientras se apoya a los creadores de contenido en la promoción de sus obras relacionadas con la salud mental.
+
+**Misión:** Nuestra misión en TechOps es mejorar la calidad de vida de nuestros usuarios al ofrecerles una experiencia de entretenimiento personalizada que promueva el bienestar mental y emocional. A través de ZenFlicks, buscamos crear una comunidad inclusiva y solidaria donde los usuarios puedan descubrir contenido inspirador, participar en discusiones significativas y acceder a recursos adicionales para su bienestar. Al mismo tiempo, apoyamos a los creadores de contenido en la difusión de sus obras, fomentando un ecosistema de colaboración y crecimiento mutuo. 
+
 ### 1.1.2 Perfiles de integrantes del equipo  
 ## 1.2 Solution Profile  
 
