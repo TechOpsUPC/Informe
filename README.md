@@ -29,10 +29,13 @@ Producto: ZenFlicks
 | Quispe Erasmo, Raúl Ronaldo          | u20211b682 |
 | Ramirez Ortega, Diego Miguel          | u202123548 |
 
+
+</div>
+
 <div align="center">
   
 **Agosto del 2024**
-
+</div>
   
 ---  
 # Registro de Versiones del Informe  
