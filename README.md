@@ -302,6 +302,16 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 </tr>
 </table>
 
+### 2.1.2. Estrategias y táticas frente a competidores
+
+Nuestras principales estrategias y tácticas que lanzaríamos como startup, estarían:
+
+<li>Ofrecer recomendaciones de contenido audiovisual que fomentan el bienestar mental, a diferencia de sus competidores que se enfocan en meditación o técnicas específicas para el manejo del estrés. Su estrategia se centra en destacar cómo la plataforma combina entretenimiento con salud mental. Las campañas publicitarias promoverán cómo series, películas y documentales pueden ayudar a los usuarios a desconectarse, reducir el estrés y mejorar su bienestar. Además, se incluirán testimonios de usuarios que han experimentado beneficios al integrar el entretenimiento con prácticas de bienestar.</li>
+
+<li>Competidores como Headspace, Calm y Happify destacan en meditación, mindfulness y seguimiento del bienestar mental. ZenFlicks busca diferenciarse ofreciendo una experiencia centrada en entretenimiento. La estrategia incluye proporcionar recomendaciones de contenido personalizadas basadas en el estado de ánimo, hábitos de visualización y objetivos de bienestar del usuario. Además, se desarrollará una biblioteca exclusiva con contenido relacionado con la salud mental, que incluirá documentales y películas seleccionadas por expertos en bienestar.</li>
+
+<li>Abordar las debilidades como ofertas limitadas centrada principalmente en meditación y terapias breves, y una falta de conexión emocional con usuarios que buscan entretenimiento relajante, ofreciendo una gama variada de contenido audiovisual que trate el bienestar mental desde perspectivas diversas, como comedia, ficción y documentales. La táctica será incluir películas y series sobre salud mental, junto con otros géneros como comedias y aventuras para proporcionar relajación y entretenimiento. Además, se buscarán colaboraciones con creadores de contenido especializados en salud mental, ofreciendo un espacio exclusivo en ZenFlicks para sus trabajos.</li>
+
 ## 2.2. Entrevistas  
 ### 2.2.1. Diseño de entrevistas  
 ### 2.2.2. Registro de entrevistas  
