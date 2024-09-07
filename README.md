@@ -313,6 +313,9 @@ Nuestras principales estrategias y tácticas que lanzaríamos como startup, esta
 <li>Abordar las debilidades como ofertas limitadas centrada principalmente en meditación y terapias breves, y una falta de conexión emocional con usuarios que buscan entretenimiento relajante, ofreciendo una gama variada de contenido audiovisual que trate el bienestar mental desde perspectivas diversas, como comedia, ficción y documentales. La táctica será incluir películas y series sobre salud mental, junto con otros géneros como comedias y aventuras para proporcionar relajación y entretenimiento. Además, se buscarán colaboraciones con creadores de contenido especializados en salud mental, ofreciendo un espacio exclusivo en ZenFlicks para sus trabajos.</li>
 
 ## 2.2. Entrevistas  
+
+En esta sección se aborda la investigación tomando como base la recolección de información en base a entrevistas a representantes de los segmentos objetivo. Es decir, entrevistaremos a nuestro público objetivo para asi tener más de cerca algunos testimonios y poder trabajar en base a ellos.
+
 ### 2.2.1. Diseño de entrevistas  
 ### 2.2.2. Registro de entrevistas  
 ### 2.2.3. Análisis de entrevistas  
