@@ -389,6 +389,92 @@ Esta sección del informe presenta perfiles ficticios basados en grupos de inter
 |<img src="src/images/Jorge_Samir_Condor_Vera.png" alt="2?" style="width:100%">|
 
 ### 2.3.2. User Task Matrix  
+
+En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos grupos y hemos analizado la importancia de cada una de estas actividades para cada grupo:
+
+<table>
+    <thead>
+        <tr>
+            <th>Segmento objetivo</th>
+            <th colspan="2">Ana Paola Diaz Benavides - Ciudadano Universitario/Trabajador Promedio</th>
+            <th colspan="2">Jorge Samir Condor Vera - Creador de Contenido de Salud Mental</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Tareas</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+        <tr>
+            <td>Buscar formas de relajación y alivio del estrés</td>
+            <td>A menudo</td>
+            <td>Alta</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td>Investigar sobre temas actuales de salud mental para crear contenido relevante</td>
+            <td>Rara vez</td>
+            <td>Media</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>   
+        <tr>
+            <td>Seleccionar contenido audiovisual que mejore su bienestar mental</td>
+            <td>A menudo</td>
+            <td>Alta</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Producir contenido (videos, artículos, podcasts) sobre salud mental</td>
+            <td>Nunca</td>
+            <td>Baja</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Participar en actividades físicas o de meditación para reducir el estrés</td>
+            <td>A menudo</td>
+            <td>Alta</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Distribuir y promocionar su contenido en diversas plataformas digitales</td>
+            <td>Nunca</td>
+            <td>Baja</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Interactuar en redes sociales para desconectarse o relajarse</td>
+            <td>Siempre</td>
+            <td>Media</td>
+            <td>A menudo</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Ver comentarios y preguntas de la audiencia sobre el contenido interesado</td>
+            <td>Nunca</td>
+            <td>Baja</td>
+            <td>A menudo</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Evaluar su nivel de bienestar mental periódicamente</td>
+            <td>A menudo</td>
+            <td>Alta</td>
+            <td>A veces</td>
+            <td>Alta</td>
+        </tr>      
+    </tbody>
+</table>  
+
+
 ### 2.3.3. User Journey Mapping  
 ### 2.3.4. Empathy Mapping  
 ### 2.3.5. As-is Scenario Mapping  
