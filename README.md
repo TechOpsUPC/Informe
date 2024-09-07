@@ -189,6 +189,13 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 1.3. Segmentos objetivo  
 # Capítulo II: Requirements Elicitation & Analysis  
 ## 2.1 Competidores  
+
+|EMPRESA|DESCRIPCIÓN|IMAGEN|
+|-----|-----|----|
+|**Calm**| Calm es una aplicación de bienestar que incluye contenido audiovisual, como historias para dormir y videos relajantes, que contribuyen al alivio del estrés y la mejora del bienestar. |<img src="src/images/icon_calm.png" alt="Calm" style="width:100%;">|
+|**Headspace**| Headspace es una aplicación que ofrece series y documentales enfocados en el bienestar mental, lo que podría hacerla un competidor indirecto. |<img src="src/images/icon_headspace.png" alt="Headspace" style="width:100%;">|
+|**Happify**| Happify es una plataforma dedicada al bienestar emocional y mental que utiliza actividades científicamente respaldadas, juegos y contenido multimedia para ayudar a los usuarios a reducir el estrés y mejorar su bienestar. |<img src="src/images/icon_happify.png" alt="Happify" style="width:100%;">|
+
 ## 2.2. Entrevistas  
 ### 2.2.1. Diseño de entrevistas  
 ### 2.2.2. Registro de entrevistas  
