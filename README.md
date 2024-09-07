@@ -187,6 +187,154 @@ TechOps presenta ZenFlicks, una innovadora aplicación diseñada para ayudar a l
 **Misión:** Nuestra misión en TechOps es mejorar la calidad de vida de nuestros usuarios al ofrecerles una experiencia de entretenimiento personalizada que promueva el bienestar mental y emocional. A través de ZenFlicks, buscamos crear una comunidad inclusiva y solidaria donde los usuarios puedan descubrir contenido inspirador, participar en discusiones significativas y acceder a recursos adicionales para su bienestar. Al mismo tiempo, apoyamos a los creadores de contenido en la difusión de sus obras, fomentando un ecosistema de colaboración y crecimiento mutuo. 
 
 ### 1.1.2 Perfiles de integrantes del equipo  
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/georgina.JPG" alt="Georgina" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Georgina Lastra Trinidad
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy Georgina Lastra Trinidad, estudiante de Ingeniería de Software. Mi curiosidad y mi entusiasmo por comprender cómo funcionan las cosas me llevaron a elegir este campo como mi camino profesional. Soy una estudiante comprometida y persistente que busca convertirse en una ingeniería innovadora con visión de futuro. Estoy emocionada por contribuir al desarrollo de soluciones tecnológicas impactantes que mejoren la vida de las personas de todo el mundo.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/maria.JPG" alt="Maria" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Maria Pilares Pocohuanca
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+       Soy Maria Pilares, estudio la carrera de ingeniería de software en la UPC. Desde niña tuve mucho interés por las matemáticas y la tecnología, motivo por el cual elegí una ingeniería enfocada más a la programación. Me considero una persona perseverante, aunque algo impaciente. Sin embargo, como miembro del equipo me comprometo a colaborar con mis compañeros y realizar todas las indicaciones que se dicten, todo con el fin de presentar un buen proyecto.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+           <img src="images/raul.JPG" alt="Raul" style="margin-bottom: 5px;"style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Raúl Ronaldo Quispe Erasmo
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy Raúl Ronaldo Quispe Erasmo, soy estudiante de la carrera de la ingeniería de Software y tengo 21 años. Desde mi infancia me interesó mucho el mundo de la tecnología y ahora tengo conocimiento de C#, C++, HTML, CSS, SQL Relational y no Relational. Soy responsable de llevar con el equipo a nuestro objetivo.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+           <img src="images/piero.JPG" alt="Piero" style="margin-bottom: 5px;"  style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido: </b>
+            <br>
+            Piero Miranda Sinarahua
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Me llamo Piero Miranda y actualmente estoy llevando la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/diego.JPG" alt="Diego" style="margin-bottom: 5px;"
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Diego Miguel Ramirez Ortega
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Mi nombre es Diego Ramirez, tengo 21 años y estoy estudiando la carrera de Ingeniería de Software. Tengo conocimiento en C++, python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto. 
+        </td>
+    </tr>
+<tr align="center">
+        <td rowspan="3">
+            <img src="images/aaron.JPG" alt="Aaron" style="margin-bottom: 5px;"
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Aaron Alexander Avila Palacios
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne.
+        </td>
+    </tr>
+    
+ 
 ## 1.2 Solution Profile  
 
 En esta sección se analizarán cuales son los antecedentes y la problemática acerca del estrés y cansancio mental de las personas luego de realizar actividades cotidianas y cómo el entretenimiento audiovisual está involucrado en el tema . Luego, se examinará la raíz del problema, con ayuda de un proceso UX, el cual ayudará a identificar las necesidades que ayuden a encontrar una solución a la problemática mencionada. 
@@ -377,8 +525,3 @@ Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los c
 ### Conclusiones y recomendaciones  
 ### Video About-the-Team  
   
----  
-# Bibliografía  
-  
----  
-# Anexos
