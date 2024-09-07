@@ -377,6 +377,17 @@ A continuación, encontrarás un diseño de una lista de preguntas principales y
 En esta sección el equipo explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada. Aquí se incluye secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping:
 
 ### 2.3.1. User Personas  
+
+Esta sección del informe presenta perfiles ficticios basados en grupos de interés entrevistados. Contienen información demográfica, personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de comportamiento, respaldados por entrevistas previas y elaborados con UXPressia.
+
+|**`USER PERSONA: Ana Paola Diaz Benavides`**|
+|---|
+|<img src="src/images/Ana_Paola_Diaz_Benavides.png" alt="1?" style="width:100%">|
+
+|**`USER PERSONA: Jorge Samir Condor Vera`**|
+|---|
+|<img src="src/images/Jorge_Samir_Condor_Vera.png" alt="2?" style="width:100%">|
+
 ### 2.3.2. User Task Matrix  
 ### 2.3.3. User Journey Mapping  
 ### 2.3.4. Empathy Mapping  
