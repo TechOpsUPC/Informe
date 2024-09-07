@@ -281,6 +281,13 @@ El producto debe verse amigable con el usuario, funcional y simple de usar, esto
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements  
+
+* **Creemos que**  el sistema de recomendación de contenido propuesto por nuestra plataforma hacia nuestros usuarios logrará elevar el estado de ánimo de las personas y aliviará el agobio mental que puedan estar atravesando al momento. **Sabremos que esto es cierto cuando** el porcentaje de usuarios activos en la aplicación aumente en un 20% durante los primeros meses.
+
+* **Creemos que** el impacto que tendría un sistema por el cual los usuarios compartan opiniones acerca de nuestra aplicación será considerable tomando en cuenta la competencia .**Sabremos que hemos tenido éxito cuando** leamos los comentarios positivos por parte de los usuarios publicados en los foros incluidos en la misma plataforma virtual.
+
+* **Creemos que** la ciudadanía en general dará mayor importancia a la salud mental y tomará en cuenta métodos audiovisuales para calmar sus angustias .**Sabremos que hemos tenido éxito cuando** interactuamos con los usuarios y evidenciamos que realizan sus actividades cotidianas con buena actitud
+
 #### 1.2.2.4. Lean UX Canvas  
 ## 1.3. Segmentos objetivo  
 # Capítulo II: Requirements Elicitation & Analysis  
