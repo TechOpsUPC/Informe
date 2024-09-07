@@ -204,6 +204,9 @@ En conclusión, existe una problemática en la ciudad de Lima relacionada con el
 
 ### 1.2.2 Lean UX Process  
 #### 1.2.2.1. Lean UX Problem Statements  
+
+Ciudadanos universitarios y/o trabajadores buscan formas de relajarse y reducir el cansancio mental luego de largas jornadas de estudio/trabajo, pero les suele ser difícil encontrar algún contenido que les ayude a desconectar y aliviar dicha fatiga. Debido a esto, muchos experimentan altos niveles de estrés lo cual produce un deterioro de su salud mental con el tiempo. Si bien existe cierto contenido el cual puede ayudar a los usuarios a contrarrestar este agotamiento mental, no se encuentra una plataforma la cual ofrezca contenido personalizado de acuerdo al estado de ánimo del usuario. Si este problema se resuelve, las personas podrían contar con recursos audiovisuales que le alineen a sus necesidades y les permitan relajarse de forma efectiva, logrando así reducir sus niveles de estrés y mejorando su bienestar mental.
+
 #### 1.2.2.2. Lean UX Assumptions  
 #### 1.2.2.3. Lean UX Hypothesis Statements  
 #### 1.2.2.4. Lean UX Canvas  
