@@ -196,6 +196,112 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 |**Headspace**| Headspace es una aplicación que ofrece series y documentales enfocados en el bienestar mental, lo que podría hacerla un competidor indirecto. |<img src="src/images/icon_headspace.png" alt="Headspace" style="width:100%;">|
 |**Happify**| Happify es una plataforma dedicada al bienestar emocional y mental que utiliza actividades científicamente respaldadas, juegos y contenido multimedia para ayudar a los usuarios a reducir el estrés y mejorar su bienestar. |<img src="src/images/icon_happify.png" alt="Happify" style="width:100%;">|
 
+### 2.1.1. Análisis Competitivo  
+
+<table>
+<tr>
+<th colspan="7">Competitive Analysis Landscape</th>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+<td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+<td>ZenFlicks <img src="src/images/icon_zenflicks.png" alt="ZenFlicks" style="width:100%;"> </td>
+<td>Calm <img src="src/images/icon_calm.png" alt="Calm" style="width:100%;"> </td>
+<td>Headspace <img src="src/images/icon_headspace.png" alt="Headspace" style="width:100%;"> </td>
+<td>Happify <img src="src/images/icon_happify.png" alt="Happify" style="width:100%;"> </td>
+</tr>
+<tr>
+<td rowspan="2">PERFIL</td>
+<td colspan="2">Overview</td>
+<td>Es una aplicación que combina el entretenimiento y el bienestar mental, proporcionando recomendaciones personalizadas de películas, series y documentales para aliviar el estrés. Además, ofrece una plataforma para que los creadores de contenido promuevan sus obras relacionadas con la salud mental y el bienestar. </td>
+<td>Es una aplicación líder en meditación y sueño que ofrece una amplia gama de herramientas para mejorar la salud mental, incluyendo meditaciones guiadas, historias para dormir, música relajante y ejercicios de respiración. </td>
+<td>Es una aplicación de meditación y bienestar que ofrece una amplia gama de recursos para ayudar a los usuarios a reducir el estrés, mejorar su concentración y dormir mejor, a través de meditaciones guiadas y contenido audiovisual. </td>
+<td>Es una plataforma de bienestar emocional que ofrece actividades, juegos y programas basados en la ciencia para ayudar a los usuarios a reducir el estrés, mejorar su estado de ánimo y desarrollar resiliencia. </td>
+</tr>
+<tr>
+<td colspan="2">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+<td>Ofrece una combinación única de entretenimiento y bienestar, centrada en contenido audiovisual que no solo entretiene, sino que también promueve la salud mental. Esto lo diferencia de otras plataformas de streaming tradicionales. </td>
+<td>Ofrece amplia variedad de contenido orientado al bienestar, con un enfoque particular en mejorar el sueño, lo que lo diferencia de otros competidores en el mercado. </td>
+<td>Es pionera en el mercado de meditación digital, con una marca bien establecida y una extensa biblioteca de contenido diseñado por expertos. </td>
+<td>Ofrece de acuerdo a la ciencia del comportamiento y la psicología positiva para crear actividades interactivas que promuevan el bienestar emocional de una manera entretenida y accesible. </td>
+</tr>
+<tr>
+<td rowspan="2">PERFIL DE MARKETING</td>
+<td colspan="2">Mercado objetivo</td>
+<td>Usuarios que buscan reducir el estrés y mejorar su bienestar mental a través del entretenimiento, así como creadores de contenido que producen obras relacionadas con el bienestar mental. </td>
+<td>Usuarios que buscan mejorar su salud mental y calidad de sueño, desde principiantes en meditación hasta aquellos que desean reducir la ansiedad y el estrés. </td>
+<td>Usuarios interesados en mejorar su bienestar mental a través de la meditación y el mindfulness, desde principiantes hasta practicantes avanzados. </td>
+<td>Usuarios que buscan mejorar su bienestar emocional y reducir el estrés mediante métodos interactivos y basados en la ciencia. </td>
+</tr>
+<tr>
+<td colspan="2">Estrategias de marketing</td>
+<td>Marketing digital a través de redes sociales y blogs especializados. </td>
+<td>Publicidad en plataformas digitales, colaboraciones con celebridades, promociones en eventos relacionados con la salud y el bienestar. </td>
+<td>Colaboraciones con empresas para ofrecer Headspace a empleados, campañas de marketing digital, publicidad en medios de comunicación relacionados con la salud y el bienestar. </td>
+<td>Campañas de marketing digital, colaboraciones con profesionales de la salud mental, programas de bienestar corporativo. </td>
+</tr>
+<tr>
+<td rowspan="3">PERFIL DE PRODUCTO</td>
+<td colspan="2">Productos & Servicios</td>
+<td>Recomendaciones personalizadas de películas, series y documentales centrados en el bienestar mental.</td>
+<td>Meditaciones guiadas, historias para dormir, música para relajación, programas de mindfulness. </td>
+<td>Meditaciones guiadas, programas de mindfulness, contenido para mejorar el sueño y series audiovisuales sobre bienestar mental. </td>
+<td>Actividades interactivas, juegos y programas personalizados de bienestar emocional. </td>
+</tr>
+<tr>
+<td colspan="2">Precios & Costos</td>
+<td>1 </td>
+<td>Suscripción mensual o anual, con opciones gratuitas limitadas. </td>
+<td>Suscripción mensual o anual, con opciones de prueba gratuita. </td>
+<td>Modelo freemium con opciones de suscripción para acceder a contenido premium. </td>
+</tr>
+<tr>
+<td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+<td>Plataforma web y aplicación móvil.</td>
+<td>Plataforma web y aplicación móvil.</td>
+<td>Plataforma web y aplicación móvil.</td>
+<td>Sitio web y aplicación móvil.</td>
+</tr>
+<tr>
+<td rowspan="5">ANÁLISIS SWOT</td>
+<td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+</tr>
+<tr>
+<td colspan="2">Fortalezas</td>
+<td>Interfaz amigable y fácil de usar.</td>
+<td>Variedad de contenido enfocado en mejorar el sueño y reducir el estrés; colaboraciones con celebridades que aumentan la visibilidad de la marca. </td>
+<td>Marca fuerte y reconocida; contenido creado por expertos en meditación; amplia base de usuarios. </td>
+<td>Uso de la psicología positiva y el enfoque basado en la ciencia; alta interactividad y personalización. </td>
+</tr>
+<tr>
+<td colspan="2">Debilidades</td>
+<td>Competencia fuerte en el mercado de streaming; dependencia de la percepción de los usuarios sobre la efectividad del contenido en el bienestar.</td>
+<td>Competencia directa con otras aplicaciones de bienestar; costos de suscripción pueden ser una barrera para algunos usuarios. </td>
+<td>Dependencia de un modelo de suscripción; competencia creciente en el mercado de bienestar digital. </td>
+<td>Puede ser percibido como más orientado a la gamificación que al bienestar profundo; competencia en el mercado de bienestar emocional. </td>
+</tr>
+<tr>
+<td colspan="2">Oportunidades</td>
+<td>Aumento en la demanda de soluciones de bienestar mental; posibilidad de expandir la oferta de contenido.</td>
+<td>Expansión en nuevos mercados y segmentos demográficos; integración con dispositivos inteligentes para un seguimiento más personalizado. </td>
+<td>Expansión en mercados internacionales; integración con wearables y dispositivos de salud. </td>
+<td>Expansión en el sector corporativo como herramienta de bienestar para empleados; desarrollo de nuevas funcionalidades basadas en avances en psicología y neurociencia. </td>
+</tr>
+<tr>
+<td colspan="2">Amenazas</td>
+<td>Nuevos entrantes en el mercado de bienestar digital; cambios en las preferencias de los consumidores.</td>
+<td>Aumento en la competencia en el mercado de bienestar digital; cambios en las preferencias de los consumidores hacia nuevas tecnologías de bienestar. </td>
+<td>Nuevos competidores en el espacio de bienestar digital; cambios en las tendencias de meditación y mindfulness. </td>
+<td>Competencia creciente en el mercado de aplicaciones de bienestar; posible saturación del mercado con soluciones similares. </td>
+</tr>
+</table>
+
 ## 2.2. Entrevistas  
 ### 2.2.1. Diseño de entrevistas  
 ### 2.2.2. Registro de entrevistas  
