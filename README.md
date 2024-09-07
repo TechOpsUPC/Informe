@@ -289,6 +289,9 @@ El producto debe verse amigable con el usuario, funcional y simple de usar, esto
 * **Creemos que** la ciudadanía en general dará mayor importancia a la salud mental y tomará en cuenta métodos audiovisuales para calmar sus angustias .**Sabremos que hemos tenido éxito cuando** interactuamos con los usuarios y evidenciamos que realizan sus actividades cotidianas con buena actitud
 
 #### 1.2.2.4. Lean UX Canvas  
+
+![canvas](images/leancanvasUX.JPG)
+
 ## 1.3. Segmentos objetivo  
 # Capítulo II: Requirements Elicitation & Analysis  
 ## 2.1 Competidores  
