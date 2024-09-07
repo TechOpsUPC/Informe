@@ -373,6 +373,9 @@ A continuación, encontrarás un diseño de una lista de preguntas principales y
 ### 2.2.2. Registro de entrevistas  
 ### 2.2.3. Análisis de entrevistas  
 ## 2.3. Needfinding  
+
+En esta sección el equipo explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada. Aquí se incluye secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping:
+
 ### 2.3.1. User Personas  
 ### 2.3.2. User Task Matrix  
 ### 2.3.3. User Journey Mapping  
