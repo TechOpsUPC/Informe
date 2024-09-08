@@ -199,9 +199,39 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### 2.3.3. User Journey Mapping  
 ### 2.3.4. Empathy Mapping  
 ### 2.3.5. As-is Scenario Mapping  
+
+En esta sección, se identificó las fases que podría presentar a nuestros User persona, del cómo se afrontó, sus pensamientos, sus sentimientos para identificar qué soluciones son las más adecuadas para satisfacer sus inquietudes.
+
+<p align ="Center">
+<h4 align = "center">As-Is Scenario Mapping de Estudiant/trabajador</h4>
+</p>
+
+<img src="./Scenario Mapping-EstudianteTrabajador.jpg">
+
+<p align ="Center">
+<h4 align = "center">As-Is Scenario Mapping de creador de contenido de salud mental</h4>
+</p>
+
+<img src=".">
+
 ## 2.4. Ubiquitous Language  
 # Capítulo III: Requirements Specification  
 ## 3.1. To-Be Scenario Mapping  
+
+ continuación, se presenta el To Be Scenario Mapping para los segmentos, con el cual satisfacemos sus necesidades por medio del sitio web ZenFlicks. Esta herramienta refleja cómo Zenflicks abordará y satisfará las necesidades de nuestros usuarios a través de su sitio web. Nuestro compromiso es ofrecer experiencias enriquecedoras y soluciones efectivas a medida que continuamos desarrollando y mejorando nuestros servicios.
+
+ <p align ="Center">
+<h4 align = "center">To-Be Scenario Mapping de Estudiant/trabajador</h4>
+</p>
+
+<img src=".">
+
+ <p align ="Center">
+<h4 align = "center">To-Be Scenario Mapping de creador de contenido de salud mental</h4>
+</p>
+
+<img src=".">
+
 ## 3.2. User Stories  
 ## 3.3. Impact Mapping  
 ## 3.4. Product Backlog  
