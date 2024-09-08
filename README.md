@@ -217,8 +217,17 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 4.5. Web Applications Prototyping  
 ## 4.6. Domain-Driven Software Architecture  
 ### 4.6.1. Software Architecture Context Diagram  
+
+<img src="./img/structurizr-94928-SystemContext-001.png">
+
 ### 4.6.2. Software Architecture Container Diagrams  
+
+<img src="./img/structurizr-94928-Container-001 (1).png">
+
 ### 4.6.3. Software Architecture Components Diagrams  
+
+<img src ="./img/structurizr-94928-Component-001.png">
+
 ## 4.7. Software Object-Oriented Design  
 ### 4.7.1. Class Diagrams  
 ### 4.7.2. Class Dictionary  
