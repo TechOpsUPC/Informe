@@ -408,6 +408,31 @@ En esta sección se muestra la base para el diseño del landing page. Con la ayu
 
 Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=1-2&t=MluQSlUmzJFBSs9i-1 
 
+### 4.3.2. Landing Page Mock-up.
+
+* **Portada**
+
+![portada](img/portada-mu.JPG)
+
+* **Beneficios**
+
+![beneficios](img/beneficios-mu.JPG)
+
+* **Testimonios**
+
+![testimonios](img/testimonios-mu.JPG)
+
+* **Membresias**
+
+![membresias](img/membership-mu.JPG)
+
+* **Equipo de Trabajo**
+
+![equipo](img/equipo-mu.JPG)
+
+* **Contacto**
+
+![contacto](img/contacto-mu.JPG)
 
 
 ## 4.4. Web Applications UX/UI Design  
