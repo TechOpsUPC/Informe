@@ -439,6 +439,23 @@ Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-
 
 ## 4.4. Web Applications UX/UI Design  
 ### 4.4.1. Web Applications Wireframes  
+
+* Segmento ciudadano trabajador/estudiante:
+  
+![web-wireframes-one](img/ciudadano-segmento-wf.JPG)
+
+![web-wireframes-one](img/ciudadano-segmento-two-wf.JPG)
+
+Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=0-1&t=y8eCI9FRfjMTvZ6X-1  
+
+* Segmento creador de contenido:
+
+![web-wireframes-one](img/creator-segmento-wf.JPG)
+
+![web-wireframes-one](img/creator-segmento-two-wf.JPG)
+
+Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=0-1&t=y8eCI9FRfjMTvZ6X-1 
+
 ### 4.4.2. Web Applications Wireflow Diagrams  
 ### 4.4.3. Web Applications Mock-ups  
 ### 4.4.4. Web Applications User Flow Diagrams  
