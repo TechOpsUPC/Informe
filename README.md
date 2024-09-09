@@ -434,6 +434,8 @@ Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-
 
 ![contacto](img/contacto-mu.JPG)
 
+Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=1-2&t=MluQSlUmzJFBSs9i-1 
+
 
 ## 4.4. Web Applications UX/UI Design  
 ### 4.4.1. Web Applications Wireframes  
