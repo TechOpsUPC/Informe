@@ -377,6 +377,39 @@ Estas características ayudan a que nuestros usuarios puedan realizar una navega
 
 
 ## 4.3. Landing Page UI Design  
+
+### 4.3.1. Landing Page Wireframe.
+
+En esta sección se muestra la base para el diseño del landing page. Con la ayuda de esta base se nos permitirá tener una idea de cómo se verá cada apartado del landing page y en qué lugar irá cada contenido. 
+
+* **Portada**
+  
+![portada](img/portada-wf.JPG)
+
+* **Beneficios**
+  
+![beneficios](img/beneficios-wf.JPG)
+
+* **Testimonios**
+  
+![testimonios](img/testimonios-wf.JPG)
+
+* **Membresias**
+  
+![membresias](img/membership-wf.JPG)
+
+* **Equipo de Trabajo**
+  
+![equipo](img/equipo-wf.JPG)
+
+* **Contacto**
+  
+![contacto](img/contacto-wf.JPG)
+
+Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=1-2&t=MluQSlUmzJFBSs9i-1 
+
+
+
 ## 4.4. Web Applications UX/UI Design  
 ### 4.4.1. Web Applications Wireframes  
 ### 4.4.2. Web Applications Wireflow Diagrams  
