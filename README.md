@@ -340,6 +340,12 @@ Sistema de etiquetado que se usará en la aplicación, con el fin de brindar inf
 
 * **Eventos:**  opción para crear eventos presenciales para el resto de usuarios.
 
+### 4.2.3. SEO Tags and Meta Tags
+
+A continuación se muestran los SEO Tags y los Meta Tags, los cuales son usados con el objetivo de aumentar la visibilidad del Landing Page en los motores de búsqueda. 
+
+![SEO tags](img/zenflicks-tags.png)
+
 ## 4.3. Landing Page UI Design  
 ## 4.4. Web Applications UX/UI Design  
 ### 4.4.1. Web Applications Wireframes  
