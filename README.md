@@ -205,8 +205,54 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 3.2. User Stories  
 ## 3.3. Impact Mapping  
 ## 3.4. Product Backlog  
+
 # Capítulo IV: Product Design  
+
+En esta sección se mostrarán una serie de estilos y características que servirán como guía para la elaboración de nuestra del diseño de nuestra solución. 
+
 ## 4.1. Style Guidelines  
+
+### 4.1.1. General Style Guidelines.
+
+* **Brand Overview:** El bienestar mental es una problemática que se hace cada vez mayor en la sociedad de hoy en día. Lamentablemente no muchas personas le dan importancia y muchos de ellos terminan sufriendo las consecuencias sin darse cuenta del todo. 
+Nuestro aplicativo “ZenFlicks” surge de la idea de dar solución a esta problemática. En nuestra Startup se cree que la relajación mediante contenido audiovisual es una buena técnica para aliviar y tratar el estrés post-trabajo/estudio, si es que el contenido visto es el adecuado para el usuario.
+
+* **Brand Name:** El nombre “ZenFlicks” nace a partir de  la palabra “zen”, que está relacionado con la meditación , y flicks, que se relaciona al cine .El equipo pensó que este nombre sería llamativo y fácil de recordar para los usuarios. 
+
+El logo diseñado para representar la aplicación es el siguiente: 
+
+![zenflicks-logo](img/zenflicks-logo.png)
+
+* **Colors:**
+
+![Main Colors](img/main-colors.JPG)
+
+Colores primarios: Los colores Cordovan y Cardinal serán los tonos principales de la aplicación. Estos colores se emplearán para los componentes principales del aplicativo. Creemos que estos colores representan seguridad y confianza para los usuarios, lo cual ayudará a generar un buen vínculo entre la persona que interactúe y el producto que les estamos ofreciendo. 
+
+Colores secundarios: Los colores Puce, Earth Yellow y Bronze son colores que se emplearán para componentes secundarios y/o fondos que requieran cierta distinción de las pantallas principales de la aplicación.
+
+![Dark Colors](img/dark-colors.JPG)
+
+Tonos negros/grises: Colores los cuales se empleatan principalmente para los textos
+
+![Light Colors](img/light-colors.JPG)
+
+Tonos blancos: Colores que se usarán mayormente en los fondos de la aplicación.
+
+* **Typography:** La tipografía principal que se decidió usar para el aplicativo es “Inter” de Google Fonts.
+
+![typography](img/typography-one.JPG)
+
+![typography twp](img/typography-two.JPG)
+
+* **Spacing:** Estos son los niveles de espaciado que se usarán en el aplicativo. Estos tamaños varían entre múltiplos de 8 pixeles.
+
+![spacing](img/spacing.JPG)
+
+* * **Tono de Comunicación y lenguaje aplicado**
+El tono de comunicación que se usará en el aplicativo será Entusiasta/Sereno. Creemos que usando este tono transmitiremos confianza y seguridad al usuario, el cual busca relajarse y ser tratado de manera que se sienta como y calmado, para así desconectar de las actividades que lo llevaron a sentirse estresado. 
+
+
 ## 4.2. Information Architecture  
 ## 4.3. Landing Page UI Design  
 ## 4.4. Web Applications UX/UI Design  
