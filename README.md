@@ -208,15 +208,14 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
  continuación, se presenta el To Be Scenario Mapping para los segmentos, con el cual satisfacemos sus necesidades por medio del sitio web ZenFlicks. Esta herramienta refleja cómo Zenflicks abordará y satisfará las necesidades de nuestros usuarios a través de su sitio web. Nuestro compromiso es ofrecer experiencias enriquecedoras y soluciones efectivas a medida que continuamos desarrollando y mejorando nuestros servicios.
 
- <p align ="Center">
-<h4 align = "center">To-Be Scenario Mapping de Estudiant/trabajador</h4>
-</p>
 
-<img src=".">
+|**`TO-BE SCENARIO MAPPING: Ciudadano Universitario/Trabajador Promedio`**|
+|---|
+|<img src="src/images/as-is_ana.png" alt="as-is Ciudadano Universitario/Trabajador Promedio" style="width:100%">|
 
- <p align ="Center">
-<h4 align = "center">To-Be Scenario Mapping de creador de contenido de salud mental</h4>
-</p>
+|**`TO-BE SCENARIO MAPPING: Creador de Contenido de Salud Mental`**|
+|---|
+|<img src="src/images/as-is_jorge.png" alt="as-is Creador de Contenido de Salud Mental" style="width:100%">|
 
 <img src=".">
 
