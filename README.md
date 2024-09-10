@@ -497,7 +497,7 @@ Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-
 
 ### 4.7.1. Class Diagrams  
 
-<img src ="./img/diagramaclases.jpeg">
+![diagrams](images/diagramaclases.jpeg)
 
 ### 4.7.2. Class Dictionary  
 
