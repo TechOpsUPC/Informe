@@ -220,6 +220,29 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 <img src=".">
 
 ## 3.2. User Stories  
+
+### 3.2. User Stories
+
+#### Epic 1: Página de Información
+
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+| --- | --- | --- | --- | --- |
+| E01 - US001 | Barra de navegación | Como visitante, quiero ver una barra de navegación en la parte superior de la página para poder acceder fácilmente a las secciones principales del sitio. | **Escenario 1: Visualización de la Barra de Navegación**: Dado que el visitante accede a la landing page, Cuando visualiza la parte superior de la página, Entonces debe ver una barra de navegación con enlaces a las secciones: Inicio, Funcionalidades, Cómo Funciona, y Contacto. **Escenario 2: Redirección de Enlaces**: Dado que el visitante hace clic en un enlace de la barra de navegación, Cuando el navegador carga la sección correspondiente, Entonces el visitante debe ser redirigido a la sección correcta sin necesidad de desplazarse manualmente. | 1 |
+| E01 - US002 | Sección de Introducción | Como visitante, quiero leer una breve introducción sobre "ZenFlicks" para entender qué ofrece la aplicación. | **Escenario 1: Contenido de Introducción**: Dado que el visitante accede a la landing page, Cuando se desplaza hacia la sección Introducción, Entonces debe encontrar un resumen claro y conciso de lo que ofrece "ZenFlicks", incluyendo sus principales características y beneficios. **Escenario 2: Claridad del Resumen**: Dado que el visitante está en la sección de Introducción, Cuando lee el contenido, Entonces debe poder entender de manera rápida y clara los objetivos y ventajas de la aplicación. | 1 |
+| E01 - US003 | Sección de Funcionalidades | Como visitante, quiero conocer las principales funcionalidades de "ZenFlicks" para saber si la aplicación puede satisfacer mis necesidades. | **Escenario 1: Visualización de Funcionalidades**: Dado que el visitante accede a la sección Funcionalidades, Cuando revisa la información, Entonces debe ver una lista de las funcionalidades clave de la aplicación de manera clara y ordenada. **Escenario 2: Detalle de Funcionalidades**: Dado que el visitante quiere conocer más detalles, Cuando selecciona una funcionalidad, Entonces debe desplegarse una descripción detallada de la funcionalidad seleccionada. | 1 |
+| E01 - US004 | Sección de Contacto | Como visitante, quiero ver una sección de contacto en la página para poder obtener información de soporte o hacer consultas. | **Escenario 1: Visualización de Sección de Contacto**: Dado que el visitante accede a la landing page, Cuando se desplaza hacia el pie de página, Entonces debe visualizar la información de contacto, como un correo electrónico o formulario de contacto. | 1 |
+
+#### Epic 2: Gestión de Cuenta
+
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+| --- | --- | --- | --- | --- |
+| E02 - US005 | Registro de Cuenta | Como nuevo usuario, quiero registrarme en "ZenFlicks" para crear una cuenta y acceder a las funcionalidades de la plataforma. | **Escenario 1: Registro Exitoso**: Dado que un visitante desea registrarse, Cuando introduce la información requerida (nombre, correo, contraseña), Entonces el sistema debe crear una nueva cuenta y enviar una confirmación. **Escenario 2: Manejo de Errores**: Dado que el visitante comete un error en el formulario de registro, Cuando intenta enviar el formulario, Entonces el sistema debe resaltar los errores (p.ej., correo inválido, contraseña débil). | 2 |
+| E02 - US006 | Actualización de Perfil | Como usuario registrado, quiero poder actualizar mis datos personales para mantener mi cuenta al día. | **Escenario 1: Acceso a Configuración**: Dado que el usuario accede a su perfil, Cuando selecciona la opción de editar, Entonces debe poder modificar su información personal (nombre, correo, contraseña, etc.). **Escenario 2: Confirmación de Cambios**: Dado que el usuario realiza cambios en su perfil, Cuando guarda los cambios, Entonces el sistema debe mostrar una confirmación y actualizar la información en la base de datos. | 2 |
+| E02 - US007 | Recuperación de Contraseña | Como usuario, quiero poder recuperar mi contraseña en caso de que la haya olvidado para poder acceder nuevamente a mi cuenta. | **Escenario 1: Solicitud de Recuperación**: Dado que el usuario olvidó su contraseña, Cuando selecciona "Olvidé mi contraseña", Entonces el sistema debe enviar un correo con un enlace de recuperación. **Escenario 2: Cambio de Contraseña**: Dado que el usuario recibe el enlace de recuperación, Cuando sigue el enlace y crea una nueva contraseña, Entonces el sistema debe actualizar la contraseña y permitir el inicio de sesión con la nueva información. | 2 |
+| E02 - US008 | Cierre de Sesión | Como usuario registrado, quiero cerrar sesión en mi cuenta para mantener la seguridad de mi información. | **Escenario 1: Cierre de Sesión Exitoso**: Dado que el usuario desea cerrar sesión, Cuando selecciona la opción de "Cerrar Sesión", Entonces el sistema debe cerrar la sesión y redirigir al usuario a la página principal. | 2 |
+
+
+
 ## 3.3. Impact Mapping  
 ## 3.4. Product Backlog  
 
