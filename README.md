@@ -256,7 +256,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 </tr>
 <tr>
 <td colspan="2">Precios & Costos</td>
-<td>1 </td>
+<td>Suscripción 3.99, 5.99 y 9.99 dólares como estándar, premium y platinum respectivamente. Para las funciones adicionales, eventos personalizables y acceso a foros. </td>
 <td>Suscripción mensual o anual, con opciones gratuitas limitadas. </td>
 <td>Suscripción mensual o anual, con opciones de prueba gratuita. </td>
 <td>Modelo freemium con opciones de suscripción para acceder a contenido premium. </td>
