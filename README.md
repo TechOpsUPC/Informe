@@ -458,6 +458,24 @@ Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-
 
 ### 4.4.2. Web Applications Wireflow Diagrams  
 ### 4.4.3. Web Applications Mock-ups  
+
+* Segmento ciudadano trabajador/estudiante:
+  
+![ciudadano-mu](img/zen-ciudadano-mu.JPG)
+
+![ciudadano-two-mu](img/zen-ciudadano-mu-two.JPG)
+
+Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=0-1&t=y8eCI9FRfjMTvZ6X-1 
+
+* Segmento creador de contenido:
+
+![creator-mu](img/zen-creator-mu.JPG)
+
+![creator-twwo-mu](img/zen-creator-mu-two.JPG)
+
+Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=0-1&t=y8eCI9FRfjMTvZ6X-1 
+
+
 ### 4.4.4. Web Applications User Flow Diagrams  
 ## 4.5. Web Applications Prototyping  
 ## 4.6. Domain-Driven Software Architecture  
