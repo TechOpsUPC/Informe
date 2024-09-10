@@ -652,36 +652,60 @@ Para lograr el despliegue seguimos lo siguientes pasos:
     </thead>
     <tbody>
             <tr>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> https://github.com/TechOpsUPC/Landing-Page  </td>
+                <td> Develop </td>
+                <td> c8163f6 </td>
+                <td> chore: Initial commit </td>
+                <td> chore: Initial commit </td>
+                <td> 07-09-24 </td>
             </tr>
 	   <tr>
                 <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> Develop </td>
+                <td> ed387f1 </td>
+                <td> feat: added html structure </td>
+                <td> feat: added html structure </td>
+                <td> 07-09-24 </td>
             </tr>
 	    <tr>
                 <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> Develop </td>
+                <td> f55f993 </td>
+                <td> feat: added styles.css for layout </td>
+                <td> feat: added styles.css for layout  </td>
+                <td> 07-09-24 </td>
             </tr>
 	    <tr>
                 <td> </td>
+                <td> Develop </td>
+                <td> baf4fcc </td>
+                <td> feat: added images folder for landing page </td>
+                <td> feat: added images folder for landing page </td>
+                <td> 07-09-24 </td>
+            </tr>
+	    <tr>
                 <td> </td>
+                <td> Develop </td>
+                <td> ae179b2 </td>
+                <td> feat(LandingPage): added copyright section in the footer </td>
+                <td> feat(LandingPage): added copyright section in the footer </td>
+                <td> 08-09-24 </td>
+            </tr>
+	    <tr>
                 <td> </td>
+                <td> Main </td>
+                <td> 4fff6bd </td>
+                <td> fix(html): fixed members </td>
+                <td> fix(html): fixed members </td>
+                <td> 09-09-24 </td>
+            </tr>
+	    <tr>
                 <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> Main </td>
+                <td> 57a007c </td>
+                <td> fix(css): fixed members </td>
+                <td> fix(css): fixed members </td>
+                <td> 09-09-24 </td>
             </tr>
     </tbody>
 </table>
