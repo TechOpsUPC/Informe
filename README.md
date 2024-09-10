@@ -714,6 +714,8 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 #### 5.2.1.5. Execution Evidence for Sprint Review  
   
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
+
+De momento no se desarrolló este punto ya que aún no se implementan servicios dentro de lo presentado.
   
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
   
