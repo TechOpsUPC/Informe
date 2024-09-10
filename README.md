@@ -754,6 +754,8 @@ Vistas del Landing Page desplegado en Github Pages:
 Link a pagina web desplegada: https://techopsupc.github.io/Landing-Page/  
   
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
+
+![insights-sprint-one](images/insights-sprint-1.JPG)
   
 # Conclusiones  
 ### Conclusiones y recomendaciones  
