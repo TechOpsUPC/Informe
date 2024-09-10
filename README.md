@@ -492,8 +492,17 @@ Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-
 <img src ="./img/structurizr-94928-Component-001.png">
 
 ## 4.7. Software Object-Oriented Design  
+
+
+
 ### 4.7.1. Class Diagrams  
+
+<img src ="./img/diagramaclases.jpeg">
+
 ### 4.7.2. Class Dictionary  
+
+
+
 ## 4.8. Database Design  
 ### 4.8.1. Database Diagram  
 # Capítulo V: Product Implementation, Validation & Deployment  
