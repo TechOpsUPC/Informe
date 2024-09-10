@@ -40,7 +40,16 @@ Producto: ZenFlicks
 ---  
 # Registro de Versiones del Informe  
   
-  
+| Versión | Fecha       | Autor                                  | Descripción de modificaciones |
+|---------|-------------|----------------------------------------|-------------------------------|
+| 1.0     | 07/09/2024  | Avila Palacios, Aaron                  | Capítulo I                    |
+|         |             | Lastra Trinidad, Georgina              | Capítulo II                   |
+|         |             | Pilares Pocohuanca, Maria              | Capítulo III                  |
+|         |             | Miranda Sinarahua, Piero               | Capítulo IV                   |
+|         |             | Quispe Erasmo, Raúl Ronaldo            | Capítulo V                    |
+|         |             | Ramirez Ortega, Diego Miguel           |                               |
+
+
 ---  
 # Project Report Collaboration Insights  
   
