@@ -659,6 +659,53 @@ Para lograr el despliegue seguimos lo siguientes pasos:
 </table>
   
 #### 5.2.1.3. Development Evidence for Sprint Review  
+
+<table>
+    <thead>
+            <tr>
+                <td><strong>Repository</strong></td>
+                <td><strong>Branch</strong></td>
+                <td><strong>Commit ID</strong></td>
+                <td><strong>Commit Message</strong></td>
+                <td><strong>Commit Message Body</strong></td>
+                <td><strong>Commited on (Date)</strong></td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+            </tr>
+	   <tr>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+            </tr>
+	    <tr>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+            </tr>
+	    <tr>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+            </tr>
+    </tbody>
+</table>
   
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review  
   
