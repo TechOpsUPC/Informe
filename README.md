@@ -521,46 +521,47 @@ Para lograr el despliegue seguimos lo siguientes pasos:
     <tbody>
         <tr>
             <td>Date</td>
-            <td> </td>
+            <td> 03 - 09 - 24 </td>
         </tr>
         <tr>
             <td>Time</td>
-            <td> </td>
+            <td> 20:00 PM  </td>
         </tr>
         <tr>
             <td>Location</td>
-            <td> </td>
+            <td> Llamada por Meet  </td>
         </tr>
         <tr>
             <td>Prepared By</td>
-            <td> </td>
+            <td> TechOps Team </td>
         </tr>
         <tr>
             <td>Attendees (to planning meeting)</td>
-            <td> </td>
+            <td> Aaron Avila, Georgina Lastra, Maria Pilares,Piero Miranda, Raul Quispe, Diego Ramirez
+	 </td>
         </tr>
         <tr>
             <td>Sprint n  Review Summary</td>
-            <td>  </td>
+            <td> Para esta entrega no hubo un sprint anterior, por lo que no hay un resumen de sprint.  </td>
         </tr>
         <tr>
             <td>Sprint n Retrospective Summary</td>
-            <td> </td>
+            <td> Para esta entrega no hubo un sprint anterior, por lo que no hay un resumen de sprint.  </td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td> </td>
+            <td> Diseñar e implementar el Landing Page con el objetivo de dar a conocer nuestra propuesta de valor.  </td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
-            <td> </td>
+            <td> 5 </td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td> </td>
+            <td> 13 </td>
         </tr>
     </tbody>
 </table>
