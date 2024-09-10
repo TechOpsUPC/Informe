@@ -591,69 +591,47 @@ Para lograr el despliegue seguimos lo siguientes pasos:
     </thead>
     <tbody>
             <tr>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> US01 </td>
+                <td> Información General de la Plataforma </td>
+                <td> 01 </td>
+                <td> Información General de la Plataforma </td>
+                <td> Como visitante, quiero ver una sección con información general sobre ZenFlicks para conocer las funcionalidades principales que ofrece. </td>
+                <td> 3 hr </td>
+                <td> Piero Miranda </td>
+                <td> Done </td>
             </tr>
 	    <tr>
                <tr>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> US02 </td>
+                <td> Sección de Características </td>
+                <td> 02 </td>
+                <td> Sección de Características </td>
+                <td> Como visitante, quiero ver una sección que destaque las características clave de ZenFlicks para evaluar si se ajusta a mis necesidades. </td>
+                <td> 2hr </td>
+                <td> Piero Miranda </td>
+                <td> Done </td>
             </tr>
 	    <tr>
                 <tr>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> US03 </td>
+                <td> Opiniones de Usuarios </td>
+                <td> 03 </td>
+                <td> Opiniones de Usuarios </td>
+                <td> Como visitante, quiero ver testimonios y opiniones de otros usuarios para tener una mejor idea de la calidad del contenido en ZenFlicks. </td>
+                <td> 2 hr </td>
+                <td> Diego Ramirez </td>
+                <td> Done </td>
             </tr>
 	    <tr>
                 <tr>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-            </tr>
-	    <tr>
-                <tr>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-            </tr>
-	    <tr>
-                <tr>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> US04 </td>
+                <td> Sección de Preguntas Frecuentes (FAQ) </td>
+                <td> 04 </td>
+                <td> Sección de Preguntas Frecuentes (FAQ) </td>
+                <td> Como visitante, quiero acceder a una sección de Preguntas Frecuentes para resolver dudas comunes sobre el uso de ZenFlicks. </td>
+                <td> 2 hr </td>
+                <td> Maria Pilares </td>
+                <td> In-Process </td>
             </tr>
             </tr>
     </tbody>
