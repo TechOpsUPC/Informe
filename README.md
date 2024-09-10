@@ -200,19 +200,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### 2.3.4. Empathy Mapping  
 ### 2.3.5. As-is Scenario Mapping  
 
-En esta sección, se identificó las fases que podría presentar a nuestros User persona, del cómo se afrontó, sus pensamientos, sus sentimientos para identificar qué soluciones son las más adecuadas para satisfacer sus inquietudes.
 
-<p align ="Center">
-<h4 align = "center">As-Is Scenario Mapping de Estudiant/trabajador</h4>
-</p>
-
-<img src="./Scenario Mapping-EstudianteTrabajador.jpg">
-
-<p align ="Center">
-<h4 align = "center">As-Is Scenario Mapping de creador de contenido de salud mental</h4>
-</p>
-
-<img src=".">
 
 ## 2.4. Ubiquitous Language  
 # Capítulo III: Requirements Specification  
