@@ -454,6 +454,55 @@ Son una convención para nombrar mensajes de commit en Git de forma estructurada
 * chore: Cambios menores sin impacto en el código de producción (actualización de dependencias, configuración, etc.).
   
 ### 5.1.4. Software Deployment Configuration  
+
+Como se mencionó previamente, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página. 
+
+Para el desarrollo del Landing Page de ZenFlicks se han usado las siguientes herramientas:
+
+* HTML: lenguaje con el cual está estructurado nuestro landing page.
+
+![index-landing](images/landing-index.png)
+
+* CSS: diseño y formato para el html desarrollado.
+
+![styles-landing](images/landing-styles.png)
+
+El despliegue de nuestro landing page es posible gracias a la herramienta de Github Pages. El cual es un servicio que nos permite alojar nuestro landing directamente desde el 
+repositorio de GitHub. 
+
+![github-pages-logo](images/github-pages-logo.JPG)
+
+Para lograr el despliegue seguimos lo siguientes pasos:
+
+1. Dirigirnos al repositorio de la página y entrar en la sección de configuración. 
+
+![settings-landing](images/landing-settings.png)
+
+2. Ir a la opción de “Pages”, donde se encontrarán todas las opciones de publicación de página.
+
+![pages-landing](images/pages-landing.png)
+
+3. Se debe seleccionar la rama la cual se va a publicar en el vínculo. También se debe seleccionar la carpeta donde se localizara la publicación. 
+
+![build-landing](images/build-landing.png)
+
+4. Finalmente, el link vínculo de nuestra página aparecerá en la parte superior. 
+
+![deployment-landing](images/landing-deployed-link.JPG)
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link </td>
+            <td>  https://techopsupc.github.io/Landing-Page/   
+             </td>
+        </tr>
+    </tbody>
+</table>
+
+5. Evidencia de deployment
+
+![deployment-evidence](images/deployed-evidence.JPG)
   
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.1. Sprint 1  
