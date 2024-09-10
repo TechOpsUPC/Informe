@@ -222,6 +222,47 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 3.2. User Stories  
 ## 3.3. Impact Mapping  
 ## 3.4. Product Backlog  
+
+# Product Backlog
+
+| # Orden | User Story ID | Título                                             | Descripción                                                | Story Points | Relacionado con (Epic ID) |
+|---------|---------------|----------------------------------------------------|------------------------------------------------------------|--------------|---------------------------|
+| 1       | US01           | Página de Información                              | Como visitante, quiero conocer más sobre ZenFlicks para decidir si la plataforma cumple con mis necesidades. | 3            | EP01                      |
+| 2       | US02           | Testimonios                                        | Como visitante, quiero leer testimonios de otros usuarios para tener confianza en la plataforma. | 3            | EP01                      |
+| 3       | US03           | Funcionalidades                                    | Como visitante, quiero conocer las funcionalidades principales de ZenFlicks para entender cómo puede ser útil para mí. | 5            | EP01                      |
+| 4       | US04           | Preguntas Frecuentes                               | Como visitante, quiero ver una sección de preguntas frecuentes para resolver dudas comunes. | 3            | EP01                      |
+| 5       | US05           | Acceso a la Cuenta                                 | Como usuario registrado, quiero acceder y gestionar mi cuenta para actualizar mis datos y suscripciones. | 5            | EP02                      |
+| 6       | US06           | Personalización de Cuenta                          | Como usuario, quiero personalizar mi cuenta para que se ajuste a mis preferencias personales. | 3            | EP02                      |
+| 7       | US07           | Gestión de Suscripciones                           | Como usuario registrado, quiero gestionar mis suscripciones de manera eficiente para no perder beneficios. | 5            | EP02                      |
+| 8       | US08           | Actualización de Información de Perfil             | Como usuario, quiero actualizar mi perfil para reflejar mis preferencias actuales. | 3            | EP02                      |
+| 9       | US09           | Recomendaciones Personalizadas                     | Como usuario, quiero recibir recomendaciones de contenido basadas en mis preferencias para reducir el estrés. | 5            | EP03                      |
+| 10      | US10           | Recomendaciones por Categorías                     | Como usuario, quiero recibir recomendaciones por categorías para elegir contenido relacionado a bienestar emocional. | 5            | EP03                      |
+| 11      | US11           | Contenido Destacado                                | Como usuario, quiero ver el contenido más destacado según mis preferencias para ahorrar tiempo de búsqueda. | 3            | EP03                      |
+| 12      | US12           | Actualización Automática de Recomendaciones        | Como usuario, quiero que las recomendaciones se actualicen automáticamente en base a mi historial de visualización. | 5            | EP03                      |
+| 13      | US13           | Subida de Videos                                   | Como creador de contenido, quiero poder subir videos para llegar a mi audiencia interesada en bienestar emocional. | 5            | EP04                      |
+| 14      | US14           | Gestión de Recursos                                | Como creador de contenido, quiero subir documentos y recursos adicionales para enriquecer el contenido que ofrezco. | 5            | EP04                      |
+| 15      | US15           | Programación de Publicaciones                      | Como creador de contenido, quiero programar mis publicaciones para asegurarme de mantener la consistencia en mi canal. | 3            | EP04                      |
+| 16      | US16           | Vista Previa de Publicaciones                      | Como creador de contenido, quiero ver una vista previa de mi publicación antes de que se haga pública para asegurar su calidad. | 5            | EP04                      |
+| 17      | US17           | Estadísticas Detalladas                            | Como creador de contenido, quiero ver estadísticas detalladas sobre mis videos para analizar el impacto y ajustar mis publicaciones. | 5            | EP05                      |
+| 18      | US18           | Visualización de Reproducciones                    | Como creador de contenido, quiero ver el número de reproducciones de cada uno de mis videos para evaluar su rendimiento. | 3            | EP05                      |
+| 19      | US19           | Estadísticas por Categoría                         | Como creador de contenido, quiero ver estadísticas clasificadas por categoría de videos para identificar cuáles son los más populares. | 5            | EP05                      |
+| 20      | US20           | Análisis de Engagement                             | Como creador de contenido, quiero ver el nivel de engagement de mis videos (likes, comentarios) para mejorar mi estrategia de contenido. | 5            | EP05                      |
+| 21      | US21           | Recordatorios de Prácticas de Bienestar            | Como usuario, quiero recibir recordatorios para practicar ejercicios de bienestar emocional para incluir estas prácticas en mi rutina diaria. | 3            | EP06                      |
+| 22      | US22           | Personalización de Recordatorios                   | Como usuario, quiero personalizar la frecuencia de recordatorios para ajustarlos a mi horario. | 3            | EP06                      |
+| 23      | US23           | Notificaciones de Bienestar                        | Como usuario, quiero recibir notificaciones sobre nuevas prácticas de bienestar emocional para mantenerme motivado. | 5            | EP06                      |
+| 24      | US24           | Histórico de Recordatorios                         | Como usuario, quiero ver un historial de recordatorios completados para analizar mi progreso. | 3            | EP06                      |
+| 25      | US25           | Suscripción a Contenido Exclusivo                  | Como usuario, quiero suscribirme a contenido exclusivo de salud mental para acceder a recursos premium. | 5            | EP07                      |
+| 26      | US26           | Gestión de Planes de Suscripción                   | Como usuario, quiero gestionar mis suscripciones y cambiar de plan cuando sea necesario para acceder a otros beneficios. | 3            | EP07                      |
+| 27      | US27           | Renovación Automática de Suscripciones             | Como usuario, quiero que mis suscripciones se renueven automáticamente para no perder acceso a los contenidos. | 5            | EP07                      |
+| 28      | US28           | Cancelación de Suscripciones                       | Como usuario, quiero poder cancelar mi suscripción fácilmente para dejar de recibir contenido exclusivo si ya no lo necesito. | 3            | EP07                      |
+| 29      | US29           | Implementación de Autenticación con Tokens         | Como developer, quiero implementar autenticación de usuarios con tokens para garantizar la seguridad de las cuentas. | 8            | EP08                      |
+| 30      | US30           | Gestión de Suscripciones mediante API              | Como developer, quiero gestionar suscripciones a través de la API para crear, modificar o cancelar suscripciones de usuarios. | 8            | EP08                      |
+| 31      | US31           | Endpoint para Contenidos Recomendados              | Como developer, quiero crear un endpoint que devuelva una lista de contenidos recomendados para los usuarios basados en sus preferencias. | 8            | EP08                      |
+| 32      | US32           | Creación de Nuevos Eventos en la Plataforma        | Como developer, quiero implementar un endpoint para crear nuevos eventos en la plataforma para mantener la información actualizada. | 8            | EP08                      |
+| 33      | US33           | Gestión de Valoraciones y Reseñas a través de API  | Como developer, quiero crear un endpoint para gestionar valoraciones y reseñas de los contenidos para mejorar la retroalimentación del usuario. | 8            | EP08                      |
+
+
+
 # Capítulo IV: Product Design  
 ## 4.1. Style Guidelines  
 ## 4.2. Information Architecture  
