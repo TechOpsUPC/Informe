@@ -715,6 +715,11 @@ Para lograr el despliegue seguimos lo siguientes pasos:
 Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
   
 #### 5.2.1.5. Execution Evidence for Sprint Review  
+
+![execution-evidence](images/execution-evidence-zen.JPG)
+
+* **Vista principal implementada**
+![home-implemented](images/execution-deployed.JPG)
   
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
 
