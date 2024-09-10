@@ -501,6 +501,31 @@ Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-
 
 ### 4.7.2. Class Dictionary  
 
+#### En esta sección se creará un diccionario detallado que describe cada una de las clases identificadas en el diagrama.
+
+- **User**: Esta clase representa a cualquier persona que accede al sistema, ya sea para consumir contenido o para crear y gestionar contenido.
+
+- **Customer**: Esta clase representa a los usuarios que consumen contenido. Los customers tienen una suscripción activa que les permite acceder a las recomendaciones y funciones de la plataforma.
+
+- **Creator**: Esta clase está enfocada en los usuarios que crean y publican contenido en la plataforma.
+
+- **Content**: Esta clase representa los elementos audiovisuales que se encuentran en la plataforma, como películas, series y documentales.
+
+- **Transaction**: Esta clase gestiona las transacciones financieras realizadas en la plataforma, como la compra de una suscripción o la renovación de un plan.
+
+- **Payment**: Esta clase gestiona los detalles específicos de los pagos asociados a las transacciones. Cada transacción tiene un solo pago.
+
+- **Subscription**: Esta clase gestiona las suscripciones de los usuarios, controlando el tipo de plan y la duración del mismo.
+
+- **Review**: Esta clase permite que los usuarios dejen reseñas sobre los contenidos en la plataforma.
+
+- **Reminder**: Esta clase se utiliza para enviar recordatorios a los usuarios, como notificaciones de renovación de suscripción o eventos importantes.
+
+- **Event**: Esta clase gestiona los eventos creados por los Creators, como proyecciones en vivo o lanzamientos de contenido.
+
+- **Notification**: Esta clase gestiona las notificaciones que se envían a los usuarios, como actualizaciones de eventos o recordatorios.
+
+- **Comment**: Esta clase permite a los usuarios dejar comentarios sobre el contenido en la plataforma.
 
 
 ## 4.8. Database Design  
