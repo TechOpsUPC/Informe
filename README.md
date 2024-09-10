@@ -516,7 +516,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
 
 ## 2.4. Ubiquitous Language  
 
-# Ubiquitous Language – ZenFlicks
+#### Esta sección consiste en facilitar la comunicación entre los diferentes actores involucrados en el proyecto.
 
 ## Términos Clave
 
