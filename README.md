@@ -507,6 +507,63 @@ Para lograr el despliegue seguimos lo siguientes pasos:
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.1. Sprint 1  
 #### 5.2.1.1. Sprint Planning 1  
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Sprint n  Review Summary</td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td>Sprint n Retrospective Summary</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td> </td>
+        </tr>
+    </tbody>
+</table>
   
 #### 5.2.1.2. Sprint Backlog 1  
   
