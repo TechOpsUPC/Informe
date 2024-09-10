@@ -718,6 +718,32 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 De momento no se desarrolló este punto ya que aún no se implementan servicios dentro de lo presentado.
   
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
+
+Vistas del Landing Page desplegado en Github Pages:
+
+* **Home:**
+![home-deployed](images/home-deployed.JPG)
+  
+* **Beneficios:**
+![beneficios-deployed](images/beneficios-deployed.JPG)
+
+  
+* **Testimonios:**
+![testimonios-deployed](images/testimonios-deployed.JPG)
+
+  
+* **Membresias:**
+![membresias-deployed](images/membresias-deployed.JPG)
+
+  
+* **Equipo de Trabajo:**
+![equipo-deployed](images/equipo-deployed.JPG)
+
+  
+* **Contactanos:**
+![contactanos-deployed](images/contacto-deployed.JPG)
+
+Link a pagina web desplegada: https://techopsupc.github.io/Landing-Page/  
   
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
   
