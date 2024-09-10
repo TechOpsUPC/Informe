@@ -373,6 +373,25 @@ A continuación, encontrarás un diseño de una lista de preguntas principales y
 
 ### 2.2.2. Registro de entrevistas  
 ### 2.2.3. Análisis de entrevistas  
+
+|**`SEGMENTO OBJETIVO: Ciudadano Universitario/Trabajador Promedio`**|
+|---|
+|**`Manuel Vargas`**|
+|Manuel Alexis Vargas Quispe, un estudiante de Ingeniería de Software de 20 años, enfrenta altos niveles de estrés debido a sus actividades universitarias y personales. Para aliviar el estrés, utiliza música y caminatas, y prefiere consumir podcasts por su conveniencia y capacidad para integrarse con otras actividades. Considera que la música y los podcasts son efectivos y recomendables para relajarse. Su principal frustración es la dificultad para encontrar contenido adecuado y está interesado en comunidades online que ofrezcan recomendaciones personalizadas para la salud mental. Manuel presenta una clara preferencia por actividades que permitan una desconexión activa y por contenido auditivo, indicando una necesidad de herramientas de recomendación más eficaces.|
+|**`Sergio Licas`**|
+|Sergio Licas, un trabajador de 40 años en el ámbito de la cocina, enfrenta un entorno laboral estresante y encuentra difícil encontrar tiempo para descansar. Para aliviar el estrés, prefiere ver películas y series, aunque a veces tiene dificultades para encontrar contenido adecuado. Aunque no ha utilizado aplicaciones específicas para la salud mental, está abierto a explorar estas herramientas. Sergio enfrenta frustraciones en la búsqueda de contenido útil para reducir el estrés, lo que sugiere una necesidad de plataformas más efectivas o personalizadas para la gestión del estrés.|
+|**`Edery Abanto`**|
+|Edery Abanto, un asistente administrativo con horarios ocupados, busca métodos rápidos para relajarse debido al estrés laboral. Su principal forma de alivio es ver contenido audiovisual, prefiriendo documentales de naturaleza y comedias. Aunque no está familiarizado con aplicaciones específicas para la salud mental, enfrenta dificultades para encontrar contenido adecuado que se ajuste a su estado de ánimo. Edery necesita recomendaciones personalizadas para mejorar su experiencia de relajación.|
+
+|**`SEGMENTO OBJETIVO: Creador de Contenido de Salud Mental`**|
+|---|
+|**`Leonardo Lopez`**|
+|Leonardo Lopez, un creador de contenido especializado en salud mental de 34 años, enfrenta desafíos relacionados con la saturación de información y la competencia en su campo. Utiliza plataformas como YouTube, Spotify, blogs e Instagram para promover su trabajo. Necesita apoyo en marketing digital y análisis de datos para mejorar la visibilidad y monetización de su contenido, y busca colaboraciones con otros profesionales de la salud mental. Enfrenta dificultades con la visibilidad y la competencia, lo que refuerza su necesidad de apoyo en marketing y colaboraciones para superar estos retos.|
+|**`Hernán Tapia`**|
+|Hernán Tapia, un arquitecto de 24 años, está estresado por su trabajo y busca métodos específicos para relajarse. Su principal forma de alivio es ver películas y series, especialmente documentales de naturaleza y comedias ligeras, casi todos los días. Aunque ha probado recursos de meditación en YouTube, no ha encontrado una plataforma que le satisfaga completamente. Hernán enfrenta dificultades para encontrar contenido que se ajuste a su estado de ánimo y está interesado en unirse a comunidades online que ofrezcan recomendaciones personalizadas para mejorar su relajación.|
+|**`Maricielo Mamani`**|
+|Maricielo Mamani Cuti, psicóloga y creadora de contenido de 24 años, está enfocada en mejorar la visibilidad y la calidad de su trabajo en salud mental. Utiliza su teléfono móvil y laptop para crear y distribuir contenido como podcasts, artículos sobre bienestar emocional y consejos validados por psicólogos. Enfrenta desafíos relacionados con la alta competencia en redes sociales y la necesidad de transmitir mensajes con empatía. Estos desafíos reflejan su compromiso con la calidad del contenido y la conexión efectiva con su audiencia.|
+
 ## 2.3. Needfinding  
 
 En esta sección el equipo explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada. Aquí se incluye secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping:
