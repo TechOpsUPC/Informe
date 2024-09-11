@@ -684,8 +684,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
 
 ## 2.4. Ubiquitous Language  
 
-#### Esta sección consiste en facilitar la comunicación entre los diferentes actores involucrados en el proyecto.
-Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
+#### Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
 
 ![Ubiquitous Language](https://github.com/user-attachments/assets/445f1e02-404b-46c9-bd2b-584121789781)
 
