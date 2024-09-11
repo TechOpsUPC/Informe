@@ -301,6 +301,20 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## 3.3. Impact Mapping  
 
+El Impact Mapping es una técnica utilizada en la planificación estratégica y desarrollo de productos. Ayuda a conectar los objetivos del negocio con los entregables, identificando quiénes están involucrados, qué necesitan hacer y cómo esos cambios tendrán un impacto positivo.<br>
+<br>
+
+**Objetivo Principal:**<br>
+Crear una plataforma audiovisual que ayude a reducir el estrés y mejorar el bienestar mental de los usuarios al proporcionar contenido personalizado según su estado de ánimo.
+
+
+|**`IMPACT MAPPING`**|
+|---|
+|<img src="src/images/Impac Map - App Web.jpg" alt="Impact Map" style="width:100%">|
+
+Link: https://miro.com/app/board/uXjVKhzAaps=/?share_link_id=45646845266 
+
+Este mapa de impacto conecta el objetivo de mejorar la salud mental de los usuarios con los actores involucrados y los cambios necesarios para lograr ese impacto positivo a través del desarrollo de la plataforma audiovisual.
 
 ## 3.4. Product Backlog  
 
