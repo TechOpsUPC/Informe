@@ -599,6 +599,11 @@ Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-
 
 ## 4.8. Database Design  
 ### 4.8.1. Database Diagram  
+
+El siguiente diagrama refleja las relaciones y la estructura que se implementará en la base de datos para ZenFlicks.
+
+<img src="./img/DataBaseDiagram.png">
+
 # Capítulo V: Product Implementation, Validation & Deployment  
 ## 5.1. Software Configuration Management  
 ### 5.1.1. Software Development Environment Configuration  
