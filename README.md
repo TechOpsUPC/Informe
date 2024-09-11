@@ -205,7 +205,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 3.2. User Stories  
 ## 3.3. Impact Mapping  
 ## 3.4. Product Backlog  
-
 # Capítulo IV: Product Design  
 
 En esta sección se mostrarán una serie de estilos y características que servirán como guía para la elaboración de nuestra del diseño de nuestra solución. 
