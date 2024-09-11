@@ -685,68 +685,10 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
 ## 2.4. Ubiquitous Language  
 
 #### Esta sección consiste en facilitar la comunicación entre los diferentes actores involucrados en el proyecto.
+Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
 
-## Términos Clave
+![Ubiquitous Language](https://github.com/user-attachments/assets/445f1e02-404b-46c9-bd2b-584121789781)
 
-### User (Usuario)
-- **Definición**: Persona que accede a la plataforma ZenFlicks, ya sea para consumir contenido o para crear y administrar contenido.
-- **Contexto de Uso**: Los usuarios pueden ser tanto **Customers** (Clientes) como **Creators** (Creadores).
-
-### Customer (Cliente)
-- **Definición**: Usuario que consume contenido en la plataforma ZenFlicks.
-- **Contexto de Uso**: Los clientes eligen entre diferentes planes de suscripción y reciben recomendaciones personalizadas de acuerdo con sus preferencias.
-
-### Creator (Creador)
-- **Definición**: Usuario que crea y sube contenido a la plataforma ZenFlicks.
-- **Contexto de Uso**: Los creadores pueden gestionar sus producciones, ver estadísticas sobre el rendimiento de su contenido y recibir retroalimentación de los usuarios.
-
-### Content (Contenido)
-- **Definición**: Material audiovisual disponible en la plataforma, como películas, series o documentales.
-- **Contexto de Uso**: El contenido es creado y subido por los **Creators** y consumido por los **Customers**.
-
-### Subscription (Suscripción)
-- **Definición**: Relación entre un **Customer** y la plataforma ZenFlicks que permite acceso a contenido premium a cambio de una tarifa.
-- **Contexto de Uso**: Los usuarios pueden seleccionar y cambiar entre diferentes planes de suscripción según sus necesidades.
-
-### Transaction (Transacción)
-- **Definición**: Proceso financiero en el que un **Customer** realiza un pago para acceder a una suscripción o contenido premium.
-- **Contexto de Uso**: Cada transacción se procesa y se registra con un método de pago específico.
-
-### Payment (Pago)
-- **Definición**: El método y la cantidad utilizada para completar una **Transaction**.
-- **Contexto de Uso**: Los clientes pueden pagar mediante tarjetas de crédito, débito, o servicios de pago en línea como PayPal.
-
-### Review (Reseña)
-- **Definición**: Opinión escrita y valoración de un **Customer** sobre un **Content**.
-- **Contexto de Uso**: Las reseñas incluyen una puntuación y un comentario sobre la calidad del contenido y ayudan a otros usuarios a tomar decisiones informadas.
-
-### Reminder (Recordatorio)
-- **Definición**: Notificación enviada a los **Users** para recordarles sobre eventos, actividades de bienestar o renovaciones de suscripción.
-- **Contexto de Uso**: Los recordatorios pueden ser configurados para diversas actividades relacionadas con el bienestar emocional y la gestión de suscripciones.
-
-### Event (Evento)
-- **Definición**: Actividad organizada por los **Creators** en la plataforma, como proyecciones en vivo o lanzamientos de contenido.
-- **Contexto de Uso**: Los **Customers** pueden inscribirse en estos eventos para participar o asistir.
-
-### Notification (Notificación)
-- **Definición**: Mensaje enviado a los **Users** para informarles sobre actualizaciones, recordatorios u otros cambios importantes en la plataforma.
-- **Contexto de Uso**: Las notificaciones ayudan a mantener a los usuarios informados sobre eventos relevantes y actualizaciones importantes.
-
-### Comment (Comentario)
-- **Definición**: Texto breve que los **Customers** pueden dejar en el **Content** para expresar sus opiniones.
-- **Contexto de Uso**: Los comentarios pueden ser editados o eliminados por el usuario y ofrecen una forma adicional de retroalimentación sobre el contenido.
-
-### Preferences (Preferencias)
-- **Definición**: Información almacenada sobre los gustos y temas de interés de un **Customer**.
-- **Contexto de Uso**: Las preferencias se utilizan para personalizar las recomendaciones de contenido y mejorar la experiencia del usuario en la plataforma.
-
-### Statistics (Estadísticas)
-- **Definición**: Datos recolectados sobre el rendimiento de **Content**, incluyendo visualizaciones, interacciones y valoraciones.
-- **Contexto de Uso**: Los **Creators** utilizan las estadísticas para evaluar el impacto de su contenido y ajustar sus estrategias.
-
-### Platform (Plataforma)
-- **Definición**: El sistema en el que los **Users** acceden para consumir o crear contenido.
-- **Contexto de Uso**: La plataforma gestiona todo el contenido, las suscripciones, las notificaciones y las interacciones de los usuarios.
 
 
 # Capítulo III: Requirements Specification  
