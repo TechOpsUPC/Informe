@@ -372,6 +372,159 @@ A continuación, encontrarás un diseño de una lista de preguntas principales y
 </ul>
 
 ### 2.2.2. Registro de entrevistas  
+
+Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás resúmenes de las entrevistas en cuadros:
+
+<ul><strong>Entrevistado 1:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Manuel Alexis Vargas Quispe. </li>
+            <li>Edad: 20 años. </li>
+            <li>Distrito de residencia: San Juan de Miraflores. </li>
+            <li>Estado Civil: Soltero. </li>
+            <li>Dedicación profesional o estudio: Ingeniería de Software. </li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="./src/images/entrevista_manuel.png" alt="Manuel Alexis Vargas" style="width:100%;">
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn</a>
+            <li>00:00 minutos hasta 06:50 minutos.</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Manuel, en general, se siente bien aunque ha estado lidiando con estrés por sus actividades universitarias y personales, manteniendo una actitud positiva. Para aliviar el estrés, escucha música y sale a caminar, encontrando estas actividades efectivas. Dada su agenda ocupada, consume principalmente podcasts, y aunque le gustan películas y series, no las ve por más de una hora a la vez. Prefiere contenido auditivo como música y podcasts para relajarse, recomendándolos a su entorno cercano. Aunque no ha usado aplicaciones específicas para la salud mental, está interesado en explorarlas y cree que cada persona tiene diferentes necesidades para manejar el estrés. Su mayor frustración es encontrar contenido que le guste, ya que el contenido no adecuado puede ser contraproducente. Utiliza principalmente su computadora y celular para consumir contenido audiovisual y está interesado en unirse a comunidades online que ofrezcan recomendaciones personalizadas para mejorar el bienestar mental, dispuesto a compartir su experiencia.</li>
+            <li>A pesar del estrés de su vida universitaria y personal, mantiene una actitud positiva y proactiva, buscando maneras efectivas de manejar el estrés y abierto a nuevas herramientas y plataformas. Su preferencia por podcasts y música indica una afinidad por plataformas de contenido auditivo de calidad, y su interés en aplicaciones para la salud mental muestra una disposición a explorar innovaciones en este campo. Utiliza principalmente su computadora y celular para consumir contenido, dado que estos dispositivos se adaptan bien a su rutina diaria. Manuel interactúa a través de plataformas de podcasts y servicios de música en línea y está interesado en explorar opciones que ofrezcan recomendaciones personalizadas para la salud mental. Aunque no se menciona un navegador específico, es probable que use navegadores comunes como Google Chrome o Safari.</li>
+        </ul>
+    </li>
+</ul>
+
+<ul><strong>Entrevistado 2:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Sergio Licas</li>
+            <li>Edad: 40 años</li>
+            <li>Distrito de residencia: San Borja, Lima</li>
+            <li>Estado Civil: Casado</li>
+            <li>Dedicación profesional o estudio: Cocinero</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="./src/images/entrevista_sergio.png" alt="Sergio Licas" style="width:100%;">
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn</a>
+            <li>07:05 hasta 12:30 minutos.</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Sergio disfruta de su empleo, aunque el trabajo en la cocina puede ser muy estresante, lo que le dificulta encontrar tiempo para desconectar y descansar. Para aliviar el estrés, le gusta ver películas, series o documentales, pero a veces le cuesta encontrar contenido que realmente le ayude debido a la abundancia de opciones en las plataformas. Aunque no ha usado aplicaciones específicas para la salud mental, considera que podrían ser beneficiosas, ya que cree que muchas personas no les dan la importancia que merecen. Su principal frustración es la dificultad para encontrar contenido adecuado entre la gran cantidad de opciones disponibles en las plataformas de streaming.</li>
+            <li>Sergio, a pesar de disfrutar de su trabajo, enfrenta desafíos relacionados con el estrés y la falta de tiempo para relajarse. Busca aliviar el estrés a través de contenido audiovisual, aunque a veces se siente abrumado por la gran cantidad de opciones disponibles en las plataformas de streaming. Aunque no menciona marcas específicas, su interés en películas, series y documentales sugiere que está familiarizado con estos servicios y muestra apertura hacia plataformas enfocadas en la salud mental, considerando que podrían ser útiles. Utiliza plataformas de streaming para su contenido, pero encuentra difícil navegar entre la amplia oferta. No ha usado aplicaciones específicas para la salud mental, pero está dispuesto a explorar nuevas herramientas para el bienestar. Aunque no se especifica un navegador, es probable que utilice opciones comunes como Google Chrome o Firefox. Se infiere que usa dispositivos como computadora, tablet o smart TV para consumir contenido en streaming.</li>
+        </ul>
+    </li>
+</ul>
+
+<ul><strong>Entrevistado 3:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Edery Abanto</li>
+            <li>Edad: 24</li>
+            <li>Distrito de residencia: Lima, San Martin de Porres</li>
+            <li>Estado Civil: Soltero</li>
+            <li>Dedicación profesional o estudio: Asistente administrativo</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="./src/images/entrevista_edery.png" alt="Edery Abanto" style="width:100%;">
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn</a>
+            <li>12:31 hasta 17:07 minutos.</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Edery se siente estresado por su trabajo, pero logra distraerse y liberar el estrés pasando tiempo con su familia. Para relajarse después del trabajo, disfruta ver películas, documentales de naturaleza y series, actividades que le ayudan a reducir el estrés. No está familiarizado con aplicaciones específicas para la salud mental y le resulta difícil encontrar herramientas útiles para este propósito. Su principal frustración es la dificultad para encontrar contenido específico que realmente le ayude a aliviar el estrés.</li>
+            <li>Aunque estresado por su trabajo, busca maneras de relajarse y desconectar, valorando el tiempo con su familia y disfrutando de contenido audiovisual como películas, documentales de naturaleza y series. Aunque no menciona marcas específicas, su interés en estos contenidos sugiere que está familiarizado con plataformas de streaming que ofrecen una amplia variedad. Aunque está abierto a la tecnología, no ha explorado aplicaciones específicas para la salud mental y no ha encontrado herramientas útiles para reducir el estrés. Utiliza servicios de streaming para consumir contenido y se apoya en el tiempo familiar para aliviar el estrés. Es probable que use navegadores comunes como Google Chrome o Firefox para acceder a estas plataformas y dispositivos como computadora, tablet o smart TV para ver el contenido.</li>
+        </ul>
+    </li>
+</ul>
+
+<ul><strong>Entrevistado 4:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Leonardo Lopez</li>
+            <li>Edad: 32</li>
+            <li>Distrito de residencia: Surquillo, Lima</li>
+            <li>Estado Civil: Soltero</li>
+            <li>Dedicación profesional o estudio: Creador de Contenido de salud mental</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="./src/images/entrevista_leonardo.png" alt="Leonardo Lopez" style="width:100%;">
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn</a>
+            <li>17:08 hasta 20:49 minutos.</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Leonardo crea videos educativos, podcasts y artículos sobre salud mental, abordando temas como la gestión del estrés, la prevención del burnout y el autocuidado, utilizando diversos dispositivos para desarrollar su contenido. Enfrenta desafíos como la saturación de información y la dificultad de tratar temas sensibles, que impactan la creación y difusión de su trabajo. Promociona su contenido a través de YouTube, Spotify, blogs e Instagram. Necesita apoyo en marketing digital, análisis de datos y colaboraciones con otros profesionales de la salud mental para mejorar su alcance y efectividad. Leonardo cree que una plataforma dedicada podría ayudarle a alcanzar una audiencia más amplia y enfocada, mejorando así la visibilidad y monetización de su trabajo.</li>
+            <li>Leonardo es un profesional apasionado por la salud mental, comprometido con educar y apoyar a otros a través de su contenido. Consciente de los desafíos en su campo, busca mejorar la visibilidad y el impacto de su trabajo. Aunque no menciona marcas específicas, su actividad en plataformas como YouTube, Spotify y blogs indica una influencia significativa en el ámbito de la salud mental, y está al tanto de diversas tendencias y herramientas digitales. Utiliza varios dispositivos para crear y compartir contenido, mostrando su adaptabilidad a diferentes tecnologías y plataformas digitales. Promociona su trabajo a través de YouTube, Spotify, blogs e Instagram para llegar a audiencias variadas y formatos diversos. Aunque no se especifica un navegador, es probable que utilice opciones comunes como Google Chrome o Firefox. Su equipo incluye computadoras, cámaras, micrófonos y teléfonos inteligentes, adaptándose a las necesidades de cada tipo de contenido.</li>
+        </ul>
+    </li>
+</ul>
+
+<ul><strong>Entrevistado 5:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Hernán Tapia</li>
+            <li>Edad: 24 años</li>
+            <li>Distrito de residencia: Barranco, Lima</li>
+            <li>Estado Civil: Soltero</li>
+            <li>Dedicación profesional o estudio: creador de Contenido de salud mental</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="./src/images/entrevista_hernan.png" alt="Hernán Tapia" style="width:100%;">
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn</a>
+            <li>20:50 hasta 24:40 minutos.</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Hernán enfrenta estrés relacionado con su trabajo y maneja esta situación realizando actividades como ejercicio, escuchando música y, especialmente, viendo contenido audiovisual. Su principal forma de relajación es ver películas y series casi a diario, con una preferencia por documentales sobre naturaleza y comedias ligeras. Aunque ha utilizado recursos de meditación en YouTube, no ha encontrado una plataforma que combine entretenimiento con salud mental de manera efectiva. Su mayor frustración es la dificultad para encontrar contenido que se ajuste a su estado de ánimo, y prefiere recibir recomendaciones personalizadas que se alineen mejor con sus necesidades emocionales. Hernán estaría dispuesto a unirse a una comunidad online que ofrezca recomendaciones personalizadas para mejorar su bienestar mental.</li>
+            <li>Busca maneras efectivas de manejar el estrés relacionado con su trabajo. Valora el contenido audiovisual como su principal método de relajación y está en busca de soluciones personalizadas que se adapten a sus estados de ánimo. Aunque no menciona marcas específicas, su preferencia por documentales de naturaleza y comedias ligeras sugiere que sigue plataformas de streaming con una amplia oferta en estos géneros. Su interés en recursos de meditación en YouTube indica que está en contacto con contenido relacionado con la salud mental. Utiliza tecnología para acceder a contenido audiovisual y recursos de meditación, mostrando familiaridad con plataformas digitales y herramientas en línea para la gestión del estrés. Prefiere plataformas de streaming para ver películas y series, y ha utilizado YouTube para meditación, aunque busca una solución que combine entretenimiento y salud mental de manera más efectiva. Aunque no se menciona un navegador específico, es probable que utilice opciones comunes como Google Chrome o Safari. Hernán probablemente usa dispositivos como una computadora, tablet o smart TV para ver contenido, y posiblemente un teléfono inteligente para acceder a recursos de meditación en YouTube.</li>
+        </ul>
+    </li>
+</ul>
+
+<ul><strong>Entrevistado 6:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Maricielo Mamani</li>
+            <li>Edad: 24</li>
+            <li>Distrito de residencia: Callao, Lima</li>
+            <li>Estado Civil: Soltera</li>
+            <li>Dedicación profesional o estudio: Psicóloga y creadora de Contenido de salud mental</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="./src/images/entrevista_maricielo.png" alt="Maricielo Mamani" style="width:100%;">
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b682_upc_edu_pe/EeRCW6bXU9NFiei3vhTfiOoBl4XIOkhyLMBiDM3aIREuCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QJfLvn</a>
+            <li>24:41 hasta 28:29 minutos.</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Maricielo se dedica a la creación de contenido sobre salud mental, utilizando su teléfono móvil y laptop para desarrollar y distribuir material como podcasts, artículos sobre bienestar emocional y consejos validados por psicólogos. Sus temas clave incluyen el autocuidado, el manejo del estrés y la importancia de la terapia, con el objetivo de ofrecer información útil y basada en evidencia para mejorar el bienestar emocional de sus seguidores. Enfrenta desafíos como la competencia en redes sociales, donde la saturación de contenido puede dificultar la visibilidad, y la necesidad de transmitir mensajes con empatía para conectar efectivamente con su audiencia.</li>
+            <li>Maricielo es una psicóloga comprometida con la salud mental, dedicada a crear contenido educativo y útil con un enfoque en la empatía y el bienestar emocional, reflejando su sensibilidad hacia las necesidades de su audiencia. Aunque no menciona marcas específicas, su trabajo en podcasts y artículos sobre salud mental muestra una influencia significativa en el ámbito de la psicología y el bienestar emocional, y está al tanto de las tendencias en la creación de contenido digital para la salud mental. Utiliza su teléfono móvil y laptop para crear y distribuir su contenido, adaptándose a herramientas digitales comunes en la creación de contenido multimedia y gestión de redes sociales. Maricielo emplea canales como podcasts y artículos en línea para ofrecer información detallada y accesible sobre temas de salud mental. Aunque no se especifica un navegador, es probable que use opciones comunes como Google Chrome o Safari. Sus dispositivos, un teléfono móvil y una laptop, le permiten combinar portabilidad con la funcionalidad necesaria para desarrollar y publicar su trabajo en diversas plataformas.</li>
+        </ul>
+    </li>
+</ul>
+
 ### 2.2.3. Análisis de entrevistas  
 
 |**`SEGMENTO OBJETIVO: Ciudadano Universitario/Trabajador Promedio`**|
