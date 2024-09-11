@@ -457,6 +457,41 @@ Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-
 Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=0-1&t=y8eCI9FRfjMTvZ6X-1 
 
 ### 4.4.2. Web Applications Wireflow Diagrams  
+
+**Segmento Objetivo**: Creador de contenido
+
+**User Goal**: El objetivo del creador de contenido es que pueda subir su  contenido relacionado a la salud mental a la aplicación
+
+**Description**: Cuando el creador de contenido quiera añadir contenido, tiene que pulsar el botón de añadir el contenido
+
+![web-wireflow-one](img/WireFlowDiagram1.png)
+<br>
+<br>
+<br>
+
+**Segmento Objetivo**: Creador de contenido
+
+**User Goal**: El objetivo del creador de contenido es que pueda gestionar su contenido (editarlo, eliminarlo, actualizarlo)
+
+**Description**: Cuando el creador de contenido quiera gestionar su contenido, tendrá que presionar el botón de Mi contenido. Luego de esto, el creador podrá visualizar su contenido subido y gestionarlo
+
+![web-wireflow-two](img/WireFlowDiagram2.png)
+<br>
+<br>
+<br>
+
+
+**Segmento Objetivo**: Estudiante/Trabajador
+
+**User Goal**: El objetivo de este usuario es poder tener una cuenta en la plataforma
+
+**Description**: Cuando el usuario no tenga una cuenta y quiere ingresar para ver y probar los servicios, este debe pulsar el botón de registro y tendrá que rellenar los formularios de registro y luego registrarse
+
+![web-wireflow-three](img/WireFlowDiagram3.png)
+<br>
+<br>
+<br>
+
 ### 4.4.3. Web Applications Mock-ups  
 
 * Segmento ciudadano trabajador/estudiante:
@@ -477,6 +512,40 @@ Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-
 
 
 ### 4.4.4. Web Applications User Flow Diagrams  
+**Segmento Objetivo**: Creador de contenido
+
+**User Goal**: El objetivo del creador de contenido es que pueda subir su  contenido relacionado a la salud mental a la aplicación
+
+**Description**: Cuando el creador de contenido quiera añadir contenido, tiene que pulsar el botón de añadir el contenido
+
+![web-userflow-three](img/UserFLowDiagram1.png)
+<br>
+<br>
+<br>
+
+**Segmento Objetivo**: Creador de contenido
+
+**User Goal**: El objetivo del creador de contenido es que pueda gestionar su contenido (editarlo, eliminarlo, actualizarlo)
+
+**Description**: Cuando el creador de contenido quiera gestionar su contenido, tendrá que presionar el botón de Mi contenido. Luego de esto, el creador podrá visualizar su contenido subido y gestionarlo
+
+![web-userflow-three](img/UserFLowDiagram2.png)
+<br>
+<br>
+<br>
+
+**Segmento Objetivo**: Estudiante/Trabajador
+
+**User Goal**: El objetivo de este usuario es poder tener una cuenta en la plataforma
+
+**Description**: Cuando el usuario no tenga una cuenta y quiere ingresar para ver y probar los servicios, este debe pulsar el botón de registro y tendrá que rellenar los formularios de registro y luego registrarse
+
+![web-userFlow-three](img/UserFLowDiagram3.png.png)
+<br>
+<br>
+<br>
+
+
 ## 4.5. Web Applications Prototyping  
 ## 4.6. Domain-Driven Software Architecture  
 ### 4.6.1. Software Architecture Context Diagram  
