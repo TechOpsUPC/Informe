@@ -199,9 +199,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### 2.3.3. User Journey Mapping  
 ### 2.3.4. Empathy Mapping  
 ### 2.3.5. As-is Scenario Mapping  
-
-
-
 ## 2.4. Ubiquitous Language  
 # Capítulo III: Requirements Specification  
 ## 3.1. To-Be Scenario Mapping  
