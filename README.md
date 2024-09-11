@@ -1522,13 +1522,17 @@ Link a Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-
 
 **Description**: Cuando el usuario no tenga una cuenta y quiere ingresar para ver y probar los servicios, este debe pulsar el botón de registro y tendrá que rellenar los formularios de registro y luego registrarse
 
-![web-userFlow-three](img/UserFLowDiagram3.png.png)
+![web-userFlow-three](img/UserFLowDiagram3.png)
 <br>
 <br>
 <br>
 
 
 ## 4.5. Web Applications Prototyping  
+
+
+![Web-Prototyping](img/PROTOTYEP.png)
+
 ## 4.6. Domain-Driven Software Architecture  
 ### 4.6.1. Software Architecture Context Diagram  
 
