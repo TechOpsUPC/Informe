@@ -217,8 +217,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 |---|
 |<img src="src/images/as-is_jorge.png" alt="as-is Creador de Contenido de Salud Mental" style="width:100%">|
 
-<img src=".">
-
 ## 3.2. User Stories  
 
 ### 3.2. User Stories
