@@ -1041,11 +1041,11 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
 
 |**`TO-BE SCENARIO MAPPING: Ciudadano Universitario/Trabajador Promedio`**|
 |---|
-|<img src="src/images/as-is_ana.png" alt="as-is Ciudadano Universitario/Trabajador Promedio" style="width:100%">|
+|<img src="src/images/to-be_ana.png/" alt="as-is Ciudadano Universitario/Trabajador Promedio" style="width:100%">|
 
 |**`TO-BE SCENARIO MAPPING: Creador de Contenido de Salud Mental`**|
 |---|
-|<img src="src/images/as-is_jorge.png" alt="as-is Creador de Contenido de Salud Mental" style="width:100%">|
+|<img src="src/images/to-be_jorge.png" alt="as-is Creador de Contenido de Salud Mental" style="width:100%">|
 
 ## 3.2. User Stories  
 
