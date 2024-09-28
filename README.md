@@ -2123,6 +2123,261 @@ Link a pagina web desplegada: https://techopsupc.github.io/Landing-Page/
 
 ![insights-sprint-one](images/insights-sprint-1.JPG)
   
+
+### 5.2.2. Sprint 2  
+#### 5.2.2.1. Sprint Planning 2  
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>   </td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td> Llamada por Meet  </td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td> TechOps Team </td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td> Aaron Avila, Georgina Lastra, Maria Pilares,Piero Miranda, Raul Quispe, Diego Ramirez
+	 </td>
+        </tr>
+        <tr>
+            <td>Sprint 1  Review Summary</td>
+            <td> .  </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td> .  </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td> .  </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td> 5 </td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td> 13 </td>
+        </tr>
+    </tbody>
+</table>
+  
+#### 5.2.1.2. Sprint Backlog 1  
+
+<table>
+    <thead>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="7">Sprint 1</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="6">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td> US01 </td>
+                <td> Información General de la Plataforma </td>
+                <td> 01 </td>
+                <td> Información General de la Plataforma </td>
+                <td> Como visitante, quiero ver una sección con información general sobre ZenFlicks para conocer las funcionalidades principales que ofrece. </td>
+                <td> 3 hr </td>
+                <td> Piero Miranda </td>
+                <td> Done </td>
+            </tr>
+	    <tr>
+               <tr>
+                <td> US02 </td>
+                <td> Sección de Características </td>
+                <td> 02 </td>
+                <td> Sección de Características </td>
+                <td> Como visitante, quiero ver una sección que destaque las características clave de ZenFlicks para evaluar si se ajusta a mis necesidades. </td>
+                <td> 2hr </td>
+                <td> Piero Miranda </td>
+                <td> Done </td>
+            </tr>
+	    <tr>
+                <tr>
+                <td> US03 </td>
+                <td> Opiniones de Usuarios </td>
+                <td> 03 </td>
+                <td> Opiniones de Usuarios </td>
+                <td> Como visitante, quiero ver testimonios y opiniones de otros usuarios para tener una mejor idea de la calidad del contenido en ZenFlicks. </td>
+                <td> 2 hr </td>
+                <td> Diego Ramirez </td>
+                <td> Done </td>
+            </tr>
+	    <tr>
+                <tr>
+                <td> US04 </td>
+                <td> Sección de Preguntas Frecuentes (FAQ) </td>
+                <td> 04 </td>
+                <td> Sección de Preguntas Frecuentes (FAQ) </td>
+                <td> Como visitante, quiero acceder a una sección de Preguntas Frecuentes para resolver dudas comunes sobre el uso de ZenFlicks. </td>
+                <td> 2 hr </td>
+                <td> Maria Pilares </td>
+                <td> In-Process </td>
+            </tr>
+            </tr>
+    </tbody>
+</table>
+  
+#### 5.2.1.3. Development Evidence for Sprint Review  
+
+<table>
+    <thead>
+            <tr>
+                <td><strong>Repository</strong></td>
+                <td><strong>Branch</strong></td>
+                <td><strong>Commit ID</strong></td>
+                <td><strong>Commit Message</strong></td>
+                <td><strong>Commit Message Body</strong></td>
+                <td><strong>Commited on (Date)</strong></td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td> https://github.com/TechOpsUPC/Landing-Page  </td>
+                <td> Develop </td>
+                <td> c8163f6 </td>
+                <td> chore: Initial commit </td>
+                <td> chore: Initial commit </td>
+                <td> 07-09-24 </td>
+            </tr>
+	   <tr>
+                <td> </td>
+                <td> Develop </td>
+                <td> ed387f1 </td>
+                <td> feat: added html structure </td>
+                <td> feat: added html structure </td>
+                <td> 07-09-24 </td>
+            </tr>
+	    <tr>
+                <td> </td>
+                <td> Develop </td>
+                <td> f55f993 </td>
+                <td> feat: added styles.css for layout </td>
+                <td> feat: added styles.css for layout  </td>
+                <td> 07-09-24 </td>
+            </tr>
+	    <tr>
+                <td> </td>
+                <td> Develop </td>
+                <td> baf4fcc </td>
+                <td> feat: added images folder for landing page </td>
+                <td> feat: added images folder for landing page </td>
+                <td> 07-09-24 </td>
+            </tr>
+	    <tr>
+                <td> </td>
+                <td> Develop </td>
+                <td> ae179b2 </td>
+                <td> feat(LandingPage): added copyright section in the footer </td>
+                <td> feat(LandingPage): added copyright section in the footer </td>
+                <td> 08-09-24 </td>
+            </tr>
+	    <tr>
+                <td> </td>
+                <td> Main </td>
+                <td> 4fff6bd </td>
+                <td> fix(html): fixed members </td>
+                <td> fix(html): fixed members </td>
+                <td> 09-09-24 </td>
+            </tr>
+	    <tr>
+                <td> </td>
+                <td> Main </td>
+                <td> 57a007c </td>
+                <td> fix(css): fixed members </td>
+                <td> fix(css): fixed members </td>
+                <td> 09-09-24 </td>
+            </tr>
+    </tbody>
+</table>
+  
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review  
+
+Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
+  
+#### 5.2.1.5. Execution Evidence for Sprint Review  
+
+![execution-evidence](images/execution-evidence-zen.JPG)
+
+* **Vista principal implementada**
+![home-implemented](images/execution-deployed.JPG)
+  
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review  
+
+De momento no se desarrolló este punto ya que aún no se implementan servicios dentro de lo presentado.
+  
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review  
+
+Vistas del Landing Page desplegado en Github Pages:
+
+* **Home:**
+![home-deployed](images/home-deployed.JPG)
+  
+* **Beneficios:**
+![beneficios-deployed](images/beneficios-deployed.JPG)
+
+  
+* **Testimonios:**
+![testimonios-deployed](images/testimonios-deployed.JPG)
+
+  
+* **Membresias:**
+![membresias-deployed](images/membresias-deployed.JPG)
+
+  
+* **Equipo de Trabajo:**
+![equipo-deployed](images/equipo-deployed.JPG)
+
+  
+* **Contactanos:**
+![contactanos-deployed](images/contacto-deployed.JPG)
+
+Link a pagina web desplegada: https://techopsupc.github.io/Landing-Page/  
+  
+#### 5.2.1.8. Team Collaboration Insights during Sprint  
+
+![insights-sprint-one](images/insights-sprint-1.JPG)
+  
+
+    
 # Conclusiones  
 ### Conclusiones y recomendaciones  
 ### Video About-the-Team  
