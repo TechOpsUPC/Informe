@@ -2399,7 +2399,9 @@ Link a pagina web desplegada:
 
 |**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
 |-----|----|----|
-  
+
+|**`BACKEND DESPLEGADO`**|>|[https://zenflicks-fake-api.onrender.com/api/v1/users)|
+|-----|----|----|
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
 
   
