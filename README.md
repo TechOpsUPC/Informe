@@ -2140,11 +2140,11 @@ Link a pagina web desplegada: https://techopsupc.github.io/Landing-Page/
     <tbody>
         <tr>
             <td>Date</td>
-            <td>  </td>
+            <td> 20 - 09 - 24  </td>
         </tr>
         <tr>
-            <td>Time</td>
-            <td>   </td>
+            <td> Time </td>
+            <td> 18:00 PM  </td>
         </tr>
         <tr>
             <td>Location</td>
@@ -2161,26 +2161,26 @@ Link a pagina web desplegada: https://techopsupc.github.io/Landing-Page/
         </tr>
         <tr>
             <td>Sprint 1  Review Summary</td>
-            <td> .  </td>
+            <td> En el sprint 1 se concluyo el desarrollo del landing page de manera exitosa. </td>
         </tr>
         <tr>
             <td>Sprint 1 Retrospective Summary</td>
-            <td> .  </td>
+            <td> No hubieron cambios en relacion al landing page.  </td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
             <td>Sprint 2 Goal</td>
-            <td> .  </td>
+            <td> Desarrollar e implementar el web application para Zenflicks </td>
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>
-            <td> 5 </td>
+            <td> 6 </td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td> 13 </td>
+            <td> 16 </td>
         </tr>
     </tbody>
 </table>
