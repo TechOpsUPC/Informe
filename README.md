@@ -2371,29 +2371,28 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 Vistas del Web Aplication desplegado en:
 
 * **Login:**
-
+![login-deployed](images/login_deployed_zen.JPG)
   
 * **Register:**
+![register-deployed](images/register_deployed_zen.JPG)
 
-
-  
 * **Mood Form:**
+![mood-deployed](images/mood_deployed_zen.JPG)
 
-
-  
 * **Home:**
+![home-deployed](images/homepage_deployed_zen.JPG)
 
-
-  
 * **Available Content:**
+![av_content-deployed](images/contenido_disponible_deployed_zen.JPG)
 
-
-  
 * **Recent Content:**
+![rec_content-deployed](images/contenido_reciente_deployed_zen.JPG)
 
 * **User Profile:**
- 
+ ![profile-deployed](images/user_profile_deployed.JPG)
+
 * **Events:**
+ ![event-deployed](images/eventos_deployed_zen.JPG)
 
 
 Link a pagina web desplegada: 
