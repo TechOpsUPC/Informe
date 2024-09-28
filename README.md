@@ -2210,47 +2210,69 @@ Link a pagina web desplegada: https://techopsupc.github.io/Landing-Page/
     </thead>
     <tbody>
             <tr>
-                <td>  </td>
-                <td>  </td>
+                <td> US09 </td>
+                <td> Configuración de Preferencias de Contenido </td>
                 <td> 01 </td>
-                <td>  </td>
-                <td>  </td>
-                <td>  </td>
-                <td>  </td>
-                <td>  </td>
+                <td> Configuración de Preferencias de Contenido  </td>
+                <td> Como usuario, quiero poder configurar mis preferencias de contenido para recibir recomendaciones personalizadas que se ajusten a mis intereses. </td>
+                <td> 4hr </td>
+                <td> Raul Quispe  </td>
+                <td> Done </td>
             </tr>
 	    <tr>
                <tr>
-                <td>  </td>
-                <td>   </td>
+                <td> US10 </td>
+                <td> Recomendación de Contenido según Preferencias </td>
                 <td> 02 </td>
-                <td> </td>
-                <td>  </td>
-                <td>  </td>
-                <td> </td>
-                <td>  </td>
+                <td> Recomendación de Contenido según Preferencias </td>
+                <td> Como usuario, quiero recibir recomendaciones de contenido basadas en las preferencias que he configurado para poder descubrir contenido relevante.  </td>
+                <td> 2hr </td>
+                <td> Diego Ramirez </td>
+                <td> Done </td>
             </tr>
 	    <tr>
                 <tr>
-                <td>  </td>
-                <td>    </td>
+                <td> US12 </td>
+                <td> Recomendaciones Basadas en Historial de Visualización </td>
                 <td> 03 </td>
-                <td>  </td>
-                <td>  </td>
-                <td>  </td>
-                <td> </td>
-                <td> </td>
+                <td> Recomendaciones Basadas en Historial de Visualización  </td>
+                <td> Como usuario, quiero recibir recomendaciones de contenido basadas en mi historial de visualización para descubrir contenido similar al que ya he visto.  </td>
+                <td> 3hr </td>
+                <td> Maria Pilares</td>
+                <td> In progress </td>
             </tr>
 	    <tr>
                 <tr>
-                <td>  </td>
-                <td> </td>
+                <td> US25 </td>
+                <td> Selección de Plan de Suscripción </td>
                 <td> 04 </td>
-                <td> </td>
-                <td>  </td>
-                <td> </td>
-                <td>  </td>
-                <td> </td>
+                <td> Selección de Plan de Suscripción </td>
+                <td> Como usuario, quiero poder seleccionar un plan de suscripción dentro de la plataforma para acceder a contenido premium. </td>
+                <td> 3hr </td>
+                <td> Piero Miranda </td>
+                <td> Done </td>
+            </tr>
+	     <tr>
+                <tr>
+                <td> US11 </td>
+                <td> Filtrado de Recomendaciones según Estado Emocional </td>
+                <td> 05 </td>
+                <td> Filtrado de Recomendaciones según Estado Emocional </td>
+                <td> Como usuario, quiero filtrar las recomendaciones de contenido según mi estado emocional para ver contenido que me ayude a reducir el estrés. </td>
+                <td> 4hr </td>
+                <td> Georgina Lastra </td>
+                <td> In progress </td>
+            </tr>
+	    <tr>
+                <tr>
+                <td> US21 </td>
+                <td> Configuración de Recordatorios </td>
+                <td> 06 </td>
+                <td> Configuración de Recordatorios </td>
+                <td> Como usuario, quiero configurar recordatorios para recibir notificaciones de bienestar en momentos específicos del día para mantener una rutina de bienestar emocional. </td>
+                <td> 5hr </td>
+                <td> Aaron Avvila </td>
+                <td> In progress </td>
             </tr>
             </tr>
     </tbody>
