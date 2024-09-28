@@ -2185,7 +2185,7 @@ Link a pagina web desplegada: https://techopsupc.github.io/Landing-Page/
     </tbody>
 </table>
   
-#### 5.2.1.2. Sprint Backlog 1  
+#### 5.2.1.2. Sprint Backlog 2  
 
 <table>
     <thead>
@@ -2357,17 +2357,6 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
   
 #### 5.2.1.5. Execution Evidence for Sprint Review  
 
-
-
-* **Title**
-
-  
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review  
-
-
-  
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review  
-
 Vistas del Web Aplication desplegado en:
 
 * **Login:**
@@ -2393,6 +2382,17 @@ Vistas del Web Aplication desplegado en:
 
 * **Events:**
  ![event-deployed](images/eventos_deployed_zen.JPG)
+
+  
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review  
+
+|**`REPOSITORIO FRONTEND`**|>|[https://github.com/TechOpsUPC/Frontend](https://github.com/TechOpsUPC/Frontend)|
+|-----|----|----|
+  
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review  
+
+|**`FRONTEND DESPLEGADO`**|>|[LINK](LINK)|
+|-----|----|----|
 
 
 Link a pagina web desplegada: 
