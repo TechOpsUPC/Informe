@@ -2368,28 +2368,32 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
   
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 
-Vistas del Landing Page desplegado en Github Pages:
+Vistas del Web Aplication desplegado en:
 
-* **Title:**
-
-  
-* **Title:**
-
+* **Login:**
 
   
-* **Title:**
+* **Register:**
 
 
   
-* **Title:**
+* **Mood Form:**
 
 
   
-* **Title:**
+* **Home:**
 
 
   
-* **Title:**
+* **Available Content:**
+
+
+  
+* **Recent Content:**
+
+* **User Profile:**
+ 
+* **Events:**
 
 
 Link a pagina web desplegada: 
