@@ -2291,56 +2291,56 @@ Link a pagina web desplegada: https://techopsupc.github.io/Landing-Page/
                 <td><strong>Commited on (Date)</strong></td>
             </tr>
     </thead>
-    <tbody>
+   <tbody>
             <tr>
-                <td> </td>
-                <td> </td>
-                <td>  </td>
-                <td> </td>
-                <td>  </td>
-                <td> </td>
+                <td>https://github.com/TechOpsUPC/Frontend.git </td>
+                <td>Develop </td>
+                <td> 0dc04ec</td>
+                <td>feat</td>
+                <td>feat: added router configuration  </td>
+                <td> 25-09-2024</td>
             </tr>
-	   <tr>
+       <tr>
                 <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td>Develop</td>
+                <td>bcd9160</td>
+                <td> feat:</td>
+                <td> added register component</td>
+                <td>25-09-2024 </td>
             </tr>
-	    <tr>
+        <tr>
                 <td> </td>
-                <td>  </td>
-                <td>  </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> feature/events </td>
+                <td>e457444  </td>
+                <td> feat(events): </td>
+                <td>added event-list and event-item components and its functionality </td>
+                <td> 26-09-2024</td>
             </tr>
-	    <tr>
+        <tr>
                 <td> </td>
-                <td>  </td>
-                <td>  </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> Feature/events </td>
+                <td> 934a578 </td>
+                <td> chore: </td>
+                <td>changed scrollpanel build and deleted dependency </td>
+                <td>27-09-2024 </td>
             </tr>
-	    <tr>
+        <tr>
                 <td> </td>
-                <td>  </td>
-                <td>  </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td>  Feature/explorer</td>
+                <td> f6966ce </td>
+                <td> chores</td>
+                <td> chores: adding components </td>
+                <td> 27-09-2024 </td>
             </tr>
-	    <tr>
+        <tr>
                 <td> </td>
-                <td>  </td>
-                <td>  </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td> Feature/lists </td>
+                <td> 5114cc4 </td>
+                <td> feat(develop)</td>
+                <td>feat(develop): add the lists section </td>
+                <td> 28-09-2024</td>
             </tr>
-	    <tr>
+        <tr>
                 <td> </td>
                 <td>  </td>
                 <td>  </td>
