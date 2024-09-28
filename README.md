@@ -2391,11 +2391,14 @@ Vistas del Web Aplication desplegado en:
   
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 
-|**`FRONTEND DESPLEGADO`**|>|[LINK](LINK)|
+|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
 |-----|----|----|
 
 
 Link a pagina web desplegada: 
+
+|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
+|-----|----|----|
   
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
 
