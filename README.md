@@ -2545,36 +2545,36 @@ Link a pagina web desplegada:
     </thead>
     <tbody>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>https://github.com/TechOpsUPC/Backend</td>
+                <td>Main</td>
+                <td>9381380</td>
+                <td>chore:initial commit</td>
+                <td>chore:initial commit</td>
+                <td>02/11/24</td>
             </tr>
 	    <tr>
                 <td></td>
+                <td>Develop</td>
+                <td>b18fecb</td>
+                <td>feat: added AppDbContext</td>
+                <td>feat: added AppDbContext</td>
+                <td>02/11/24</td>
+            </tr>
+	     <tr>
                 <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>Develop</td>
+                <td>5f3f1ba</td>
+                <td>chore: added configuration for programs.cs</td>
+                <td>chore: added configuration for programs.cs</td>
+                <td>02/11/24</td>
             </tr>
 	    <tr>
                 <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>feature/users</td>
+                <td>cbe263f</td>
+                <td>feat: added user controller</td>
+        	<td>feat: added user controller</td>
+                <td>03/11/24</td>
             </tr>
     </tbody>
 </table>
