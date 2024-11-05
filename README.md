@@ -2580,7 +2580,8 @@ Link a pagina web desplegada:
 </table>
 
 - #### 5.2.3.4. Testing Suite Evidence for Sprint Review
-
+ 
+Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
@@ -2605,20 +2606,28 @@ Link a pagina web desplegada:
 
 - ### 5.3.1 Diseño de entrevistas.
  #### Formato de preguntas para entrevistas de validacion 
+ 
+ - ¿Qué opinas de la apariencia general del landing page y del mensaje que este transmite? ¿Te queda clara la propuesta de MindFlix para ayudar a los usuarios a mejorar su bienestar mental?
+ - ¿Las secciones en la página de inicio (como beneficios, testimonios, etc) te ayudan a comprender lo que ofrece la aplicación?
+ - ¿Qué tan intuitiva te resulta la navegación en el landing page y el frontend? ¿Hay algo que te confunda?
+ - ¿Te sientes motivado/a a registrarte en la plataforma al ver lo ofrecido? ¿Por qué o por qué no?
+ - ¿Crees que el objetivo principal de la aplicacion, que es recomendar contenido en base a tu estado de animo,  cumple su funcion de manera correcta?
+ - ¿Te gustaría participar en eventos en vivo o foros como se propone en el landing page? ¿Qué te motivaría a hacerlo?
+ - ¿Qué cambiarías o agregarías en el landing page o frontend application para hacerlo más claro o atractivo para ti?
   
 - ### 5.3.2 Registro de entrevistas
 
   **Entrevista N°1:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
+- Nombre: Sergio 
+- Apellidos: Licas
+- Edad: 41
+- Ubicación: San Borja
+- Inicio de la Entrevista: 
+- Duración de la Entrevista: 7:20 min
 
 **Resumen de la Entrevista:**
+El usuario nos da opiniones positivas acerca de su interaccion son la aplicacion, tanto con el landing page como con el web application. Se menciona la forma en la cual este logra interacturar y  los beneficios que este obtiene. Por ultimo se mencionan caracteristicas las cuales seran tomadas en cuenta en el futuro
 
-*imagen*
   
 - ### 5.3.3 Evaluaciones segun heuristicas
 
