@@ -2421,46 +2421,46 @@ Link a pagina web desplegada:
     <tbody>
         <tr>
             <td>Date</td>
-            <td></td>
+            <td>19/10/2024</td>
         </tr>
         <tr>
             <td>Time</td>
-            <td></td>
+            <td>16:00</td>
         </tr>
         <tr>
             <td>Location</td>
-            <td></td>
+            <td>Google Meet</td>
         </tr>
         <tr>
             <td>Prepared By</td>
-            <td></td>
+            <td>TechOps Team</td>
         </tr>
         <tr>
             <td>Attendees (to planning meeting)</td>
-            <td></td>
+            <td> Aaron Avila, Georgina Lastra, Maria Pilares,Piero Miranda, Raul Quispe, Diego Ramirez</td>
         </tr>
         <tr>
             <td>Sprint 2  Review Summary</td>
-            <td></td>
+            <td>Se completaron las tareas asignadas previamente</td>
         </tr>
         <tr>
             <td>Sprint 2 Retrospective Summary</td>
-            <td></td>
+            <td>Se necesitó mayor organizacion dentro del equipo de trabajo.</td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
             <td>Sprint 3 Goal</td>
-            <td> </td>
+            <td>Implementar la primera version de los Web Services. </td>
         </tr>
         <tr>
             <td>Sprint 3 Velocity</td>
-            <td></td>
+            <td>5</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td></td>
+            <td>40</td>
         </tr>
     </tbody>
 </table>
