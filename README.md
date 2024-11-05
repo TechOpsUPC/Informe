@@ -2488,36 +2488,44 @@ Link a pagina web desplegada:
     </thead>
     <tbody>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US29</td>
+                <td>Implementación de Autenticación con Tokens</td>
+                <td>Como developer, quiero implementar autenticación de usuarios con tokens para garantizar la seguridad de las cuentas.</td>
+                <td>5hrs</td>
+                <td>Piero Miranda</td>
+                <td>In-Process</td>
             </tr>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US30</td>
+                <td>Gestión de Suscripciones mediante API</td>
+                <td>Como developer, quiero gestionar suscripciones a través de la API para crear, modificar o cancelar suscripciones de usuarios.</td>
+                <td>5hrs</td>
+                <td>Diego Ramirez</td>
+                <td>In-Process</td>
             </tr>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US31</td>
+                <td>Endpoint para Contenidos Recomendados</td>
+                <td>Como developer, quiero crear un endpoint que devuelva una lista de contenidos recomendados para los usuarios basados en sus preferencias.</td>
+                <td>4hrs</td>
+                <td>Raul Quispe</td>
+                <td>To-Review</td>
             </tr>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US32</td>
+                <td>Creación de Nuevos Eventos en la Plataforma</td>
+                <td>Como developer, quiero implementar un endpoint para crear nuevos eventos en la plataforma para mantener la información actualizada.</td>
+                <td>4hrs</td>
+                <td>Maria Pilares</td>
+                <td>In-Process</td>
+            </tr>
+	    <tr>
+                <td>US33</td>
+                <td>Gestión de Valoraciones y Reseñas a través de API</td>
+                <td>Como developer, quiero crear un endpoint para gestionar valoraciones y reseñas de los contenidos para mejorar la retroalimentación del usuario.</td>
+                <td>5hrs</td>
+                <td>Aaron Avila, Georgina Lastra</td>
+                <td>In-Process</td>
             </tr>
     </tbody>
 </table>
