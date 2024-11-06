@@ -2576,6 +2576,14 @@ Link a pagina web desplegada:
         	<td>feat: added user controller</td>
                 <td>03/11/24</td>
             </tr>
+        <tr>
+                <td></td>
+                <td>feature/events</td>
+                <td>fc0cf78</td>
+                <td>feat: added event infrastructure files</td>
+        	<td>feat: added event infrastructure files</td>
+                <td>03/11/24</td>
+            </tr>
     </tbody>
 </table>
 
@@ -2595,6 +2603,17 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 ![users-get-id](images/get-user-id-endpoint.JPG)
 
 ![users-get-up](images/get-user-up-endpoinbt.JPG)
+
+
+* **Bounded Context Events**
+
+![events-endpoints](images/Events-endpoints.png)
+
+![events-post](images/Events-post-endpoint.png)
+
+![events-get-id](images/Events-getId-endpint.png)
+
+![events-get-up](images/Events-get-endpint.png)	
 
 
  - #### 5.2.3.6. Services Documentation Evidence for Sprint Review
