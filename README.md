@@ -2642,13 +2642,6 @@ El usuario nos da opiniones positivas acerca de su interaccion son la aplicacion
 
 - ### 5.3.3 Evaluaciones segun heuristicas
 
-# Evaluación de Usabilidad
-
-Este documento presenta los hallazgos y recomendaciones para mejorar la usabilidad de la aplicación, basados en la retroalimentación de los usuarios.
-
-# Evaluación de Usabilidad
-
-Este documento presenta los hallazgos y recomendaciones para mejorar la usabilidad de la aplicación, basados en la retroalimentación de los usuarios.
 
 ## 1. Visibilidad del Estado del Sistema
 Los usuarios comentaron que debería haber una mayor claridad visual en botones como "Perfil" y "Métodos de Pago". Aunque el sistema proporciona una visibilidad adecuada, la apariencia de algunos botones no es intuitiva, ya que su color o bordes no los hacen fácilmente reconocibles.
@@ -2677,6 +2670,11 @@ El sistema tiene un manejo eficiente de pedidos y actualizaciones en tiempo real
 ## 9. Ayuda y Documentación
 Aunque no hubo observaciones directas sobre la documentación, la claridad y accesibilidad de la interfaz son aspectos bien percibidos. Se sugiere la inclusión de ayudas visuales en áreas clave para reforzar la experiencia de usuario.
 
+
+
+# Evaluación de Usabilidad
+
+Este documento presenta los hallazgos y recomendaciones para mejorar la usabilidad de la aplicación, basados en la retroalimentación de los usuarios.
 
 ## 5.4 Video About-The-Product.
 
