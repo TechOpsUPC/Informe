@@ -2727,7 +2727,7 @@ Este documento presenta los hallazgos y recomendaciones para mejorar la usabilid
 
 ## 5.4 Video About-The-Product.
 
-|**`Link To Video`**|>|link.link|
+|**`Link To Video`**|>|[link.link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz)|
 |-----|----|----|
     
 # Conclusiones  
