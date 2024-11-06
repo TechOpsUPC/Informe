@@ -2683,6 +2683,11 @@ Este documento presenta los hallazgos y recomendaciones para mejorar la usabilid
     
 # Conclusiones  
 ### Conclusiones y recomendaciones  
+
+En conclusión, el avance del proyecto logró resultar en el cumplimiento de los objetivos planteados, a saber, la contextualización del problema y solución, el desarrollo y despliegue de la primera versión de la landing, y en especial, en la implementación de funcionalidades clave. Todos los integrantes del equipo lograron contribuir al avance de las fases del proyecto. Así, la relevancia que adquirió la tarea de comunicación y colabroación entre miembros del equipo fue uno de los aprendizajes destacados. 
+
+De igual forma la utilización de herramientas colaborativas como GitHub o Figma, las más destacadas, fue fundamental para la coordinación del trabajo al permitirnos una correcta administración del código y la visualización del diseño como también de la landing page. Así, se pudo aprender que el manejo de herramientas mejora organización, planificación y eficiencia.
+
 ### Video About-the-Team  
 
 |**`Link To Video`**|>|link.link|
