@@ -2642,6 +2642,42 @@ El usuario nos da opiniones positivas acerca de su interaccion son la aplicacion
 
 - ### 5.3.3 Evaluaciones segun heuristicas
 
+# Evaluación de Usabilidad
+
+Este documento presenta los hallazgos y recomendaciones para mejorar la usabilidad de la aplicación, basados en la retroalimentación de los usuarios.
+
+# Evaluación de Usabilidad
+
+Este documento presenta los hallazgos y recomendaciones para mejorar la usabilidad de la aplicación, basados en la retroalimentación de los usuarios.
+
+## 1. Visibilidad del Estado del Sistema
+Los usuarios comentaron que debería haber una mayor claridad visual en botones como "Perfil" y "Métodos de Pago". Aunque el sistema proporciona una visibilidad adecuada, la apariencia de algunos botones no es intuitiva, ya que su color o bordes no los hacen fácilmente reconocibles.
+
+## 2. Relación entre el Sistema y el Mundo Real
+El uso de imágenes del catálogo en la página principal generó confusión entre los usuarios, ya que algunos percibieron la app como una aplicación de entretenimiento en lugar de una herramienta para el bienestar mental. Este aspecto requiere ajustes para alinear mejor la aplicación con su propósito original.
+
+## 3. Libertad y Control por Parte del Usuario
+Los usuarios valoraron positivamente la opción de actualizar el estado del menú en tiempo real y la flexibilidad que ofrece la funcionalidad de actividades en grupo, lo cual les permite mayor control sobre su experiencia.
+
+## 4. Consistencia y Estándares
+En general, los usuarios encontraron la organización de la información adecuada, especialmente en la pantalla de registro. Sin embargo, sugirieron mejorar el espaciado entre elementos y la visibilidad de algunos botones para mantener la coherencia visual y funcional.
+
+## 5. Prevención de Errores
+La aplicación permite un control y organización que minimizan los errores, incluyendo notificaciones sobre el estado de las vistas. Sin embargo, la confusión causada por las imágenes del catálogo podría generar malentendidos y debería abordarse para prevenir errores.
+
+## 6. Flexibilidad y Eficiencia de Uso
+La mayoría de los usuarios expresó opiniones positivas sobre la aplicación, resaltando su funcionamiento claro y directo. Sin embargo, algunos usuarios señalaron problemas de visibilidad y espaciado, que podrían depender de la resolución de pantalla y afectar la experiencia de usuario.
+
+## 7. Estética y Diseño Minimalista
+El diseño visual fue bien recibido, con recomendaciones para ajustar las imágenes y mejorar el espaciado y los botones. Esto ayudaría a crear una apariencia más limpia y alineada con un enfoque minimalista.
+
+## 8. Ayudar a los Usuarios a Reconocer, Diagnosticar y Corregir Errores
+El sistema tiene un manejo eficiente de pedidos y actualizaciones en tiempo real. Sin embargo, la falta de claridad visual en algunos botones dificulta la detección rápida de errores o acciones pendientes.
+
+## 9. Ayuda y Documentación
+Aunque no hubo observaciones directas sobre la documentación, la claridad y accesibilidad de la interfaz son aspectos bien percibidos. Se sugiere la inclusión de ayudas visuales en áreas clave para reforzar la experiencia de usuario.
+
+
 ## 5.4 Video About-The-Product.
 
 |**`Link To Video`**|>|link.link|
