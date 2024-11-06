@@ -2618,12 +2618,42 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
  - #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Para el desarrollo del frontend, se emplearon las siguientes tecnologías:
 
+HTML: Lenguaje de marcado utilizado para estructurar el contenido de una página web, como encabezados, párrafos e imágenes.
+
+CSS: Lenguaje de estilo que define la apariencia de las páginas web, incluyendo colores, tipografías y fondos.
+
+Vue: Framework que facilitó la creación del frontend.
+
+Git: Sistema de control de versiones que permite gestionar y seguir los cambios en el código, facilitando la colaboración en equipo durante el desarrollo de la landing page.
+
+GitHub: Plataforma en línea para alojar repositorios Git, compartir código y colaborar en proyectos, lo que fue esencial para el desarrollo colaborativo del equipo.
+
+
+
+
+En cuanto al backend, se utilizaron las siguientes tecnologías:
+
+ASP.NET Core: Framework de desarrollo web de código abierto y multiplataforma creado por Microsoft, diseñado para construir aplicaciones web modernas y de alto rendimiento.
+
+C#: Lenguaje de programación orientado a objetos desarrollado por Microsoft, utilizado principalmente para desarrollar aplicaciones en la plataforma .NET, incluyendo aplicaciones web, de escritorio y móviles.
+
+Swagger: Conjunto de herramientas de código abierto para diseñar, construir, documentar y consumir servicios web RESTful, permitiendo la automatización de la generación de documentación y pruebas interactivas para las APIs.
+
+OpenAPI Specification: Estándar para describir APIs RESTful de manera independiente del lenguaje, que define una interfaz para descubrir y comprender las capacidades de un servicio web sin necesidad de acceder al código fuente, simplificando la documentación, el desarrollo y la integración de APIs.
 
 
  - #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
+|-----|----|----|
 
+
+Link a pagina web desplegada: 
+
+|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
+|-----|----|----|
 
  
 
