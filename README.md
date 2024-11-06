@@ -2628,12 +2628,20 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 **Resumen de la Entrevista:**
 El usuario nos da opiniones positivas acerca de su interaccion son la aplicacion, tanto con el landing page como con el web application. Se menciona la forma en la cual este logra interacturar y  los beneficios que este obtiene. Por ultimo se mencionan caracteristicas las cuales seran tomadas en cuenta en el futuro
 
-  
+  |**`Link To Videos`**|>|link.link|
+|-----|----|----|
+
 - ### 5.3.3 Evaluaciones segun heuristicas
 
 ## 5.4 Video About-The-Product.
+
+|**`Link To Video`**|>|link.link|
+|-----|----|----|
     
 # Conclusiones  
 ### Conclusiones y recomendaciones  
 ### Video About-the-Team  
+
+|**`Link To Video`**|>|link.link|
+|-----|----|----|
   
