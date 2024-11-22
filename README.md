@@ -44,7 +44,7 @@ Producto: ZenFlicks
 |---------|-------------|----------------------------------------|-------------------------------|
 | 1.0     | 07/09/2024  | Avila Palacios, Aaron                  | Capítulo I                    |
 | 2.0     | 28/09/2024  | Lastra Trinidad, Georgina              | Capítulo II                   |
-|         |             | Pilares Pocohuanca, Maria              | Capítulo III                  |
+| 3.0     | 4/11/2024   | Pilares Pocohuanca, Maria              | Capítulo III                  |
 |         |             | Miranda Sinarahua, Piero               | Capítulo IV                   |
 |         |             | Quispe Erasmo, Raúl Ronaldo            | Capítulo V                    |
 |         |             | Ramirez Ortega, Diego Miguel           |                               |
@@ -66,8 +66,8 @@ del ABET – EAC - Student Outcome 5.
   
 | Criterio específico | Acciones realizadas  | Conclusiones |  
 | - | - | - |  
-| Trabaja en equipo para proporcionar liderazgo enforma conjunta. | **Avila, Aaron** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> **Lastra, Georgina** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> **Pilares, Maria** <br> ***TB1:*** <br> - Desarrollo del Capítulo 3: User Story / Product Backlog <br> - Entrevista a creador de contenido <br> - Desarrollo de Ubiquitous Language <br> - Elaboración de Class Diagrams <br> - Elaboración de Class Dictionary <br> - Elaboración del PPT <br> <br> ***TP:*** (TP) <br> <br> **Miranda, Piero** <br> ***TB1:*** <br> - Desarrollo del capitulo 1 <br> - Entrevista a segmento ciudadano <br> -Desarrollo de Style Guidelines/Information Architecture/Landing Page UI <br> -Web Application Wireframes & Mock Ups <br> - Desarrollo del capitulo 5  <br> <br> ***TP:*** Desarrollo del login, y registro de usuario. Al igual que sidebar de navegacion.  <br> <br>**Quispe, Raul** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> **Ramirez, Diego** <br> ***TB1:***<br><br>- Entrevista a Creador de contenido<br> <br>- Elaboración de los diagramas C4<br> <br> - Elaboración de los diagramas de flujo de los Wireframes<br><br> | **TB1:** A lo largo del desarrollo de nuestro proyecto, trabajamos de manera colaborativa, brindando liderazgo conjunto dentro del equipo. Cada miembro asumió responsabilidades clave para asegurar la correcta ejecución de las tareas, desde la conceptualización hasta el desarrollo de la Landing Page. Esta cooperación nos permitió integrar diversas perspectivas y habilidades, manteniendo una comunicación constante y fluida. El liderazgo compartido facilitó la toma de decisiones estratégicas y nos ayudó a mantener el enfoque en los objetivos comunes, garantizando así el éxito del proyecto. <br> ***TP:*** En el desarrollo del frontend de Zenflicks el trabajo en equipo ha sido esencial para proporcionar liderazgo conjunto en todas las fases del proyecto. Cada miembro del equipo asumió un rol clave, desde la creación de interfaces intuitivas hasta la implementación de funcionalidades como la recomendación de contenido. A través de una colaboración constante y efectiva, logramos establecer metas claras, asignar tareas y superar los desafíos del desarrollo. Esta sinergia permitió entregar un frontend funcional y atractivo, orientado a brindar una experiencia de usuario personalizada que apoya el bienestar mental, cumpliendo con los objetivos del proyecto. <br> |/*¡¡¡¡¡¡¡¡¡¡AQUÍ EMPIEZA EL OTRO CRITERIOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!*/
-| Crea un entorno colaborativo e inclusivo, establece metas,planifica tareas y cumple objetivos. | **Avila, Aaron** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> **Lastra, Georgina** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> **Pilares, Maria** <br> ***TB1:*** <br> - Desarrollo del Capítulo 3: User Story / Product Backlog <br> - Entrevista a creador de contenido <br> - Desarrollo de Ubiquitous Language <br> - Elaboración de Class Diagrams <br> - Elaboración de Class Dictionary <br> - Elaboración del PPT <br> <br> ***TP:*** (TP) <br> <br> **Miranda, Piero** <br> ***TB1:***  <br> - Desarrollo del capitulo 1 <br> - Entrevista a segmento ciudadano <br> -Desarrollo de Style Guidelines/Information Architecture/Landing Page UI <br> -Web Application Wireframes & Mock Ups <br> - Desarrollo del capitulo 5 <br> <br> ***TP:*** Implementacio de formulario para conocer estado de animo de usuario y asi recomendar contenido personalizado. <br> <br> **Quispe, Raul** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> **Ramirez, Diego** <br> ***TB1:*** <br><br>- Entrevista a Creador de contenido<br> <br>- Elaboración de los diagramas C4 <br> <br> - Elaboración de los diagramas de flujo de los Wireframes<br> <br> ***TP:*** (TP) <br> <br> | **TB1:** Durante el desarrollo de nuestro proyecto, logramos crear un entorno colaborativo e inclusivo, donde cada integrante del equipo aportó sus ideas y habilidades de manera equitativa. Establecimos metas claras desde el inicio, planificamos las tareas de forma estructurada y distribuimos responsabilidades de manera efectiva. Gracias a esta organización, cumplimos con los objetivos establecidos dentro de los plazos acordados, asegurando que cada fase del proyecto, incluyendo la creación de la Landing Page, se completara de manera eficiente y en armonía con la visión compartida del equipo. <br> ***TP:*** En el desarrollo del frontend de Zenflicks logramos crear un entorno colaborativo e inclusivo, donde cada integrante del equipo aportó sus ideas y habilidades para alcanzar los objetivos propuestos. Establecimos metas claras desde el inicio, planificamos cuidadosamente las tareas y mantuvimos una comunicación constante para asegurar que todos estuvieran alineados con la visión del proyecto. Este enfoque permitió cumplir con los plazos establecidos y entregar una aplicación funcional y bien diseñada, centrada en ofrecer recomendaciones personalizadas de contenido que promueven el bienestar mental de los usuarios. <br> |   
+| Trabaja en equipo para proporcionar liderazgo enforma conjunta. | **Avila, Aaron** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Lastra, Georgina** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Pilares, Maria** <br> ***TB1:*** <br> - Desarrollo del Capítulo 3: User Story / Product Backlog <br> - Entrevista a creador de contenido <br> - Desarrollo de Ubiquitous Language <br> - Elaboración de Class Diagrams <br> - Elaboración de Class Dictionary <br> - Elaboración del PPT <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Miranda, Piero** <br> ***TB1:*** <br> - Desarrollo del capitulo 1 <br> - Entrevista a segmento ciudadano <br> -Desarrollo de Style Guidelines/Information Architecture/Landing Page UI <br> -Web Application Wireframes & Mock Ups <br> - Desarrollo del capitulo 5  <br> <br> ***TP:*** Desarrollo del login, y registro de usuario. Al igual que sidebar de navegacion.  <br> <br> ***TB2:*** Desarrollo de endpoints del bounded context users <br> <br>**Quispe, Raul** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Ramirez, Diego** <br> ***TB1:***<br><br>- Entrevista a Creador de contenido<br> <br>- Elaboración de los diagramas C4<br> <br> - Elaboración de los diagramas de flujo de los Wireframes <br> ***TB2:*** (TB2) <br> <br><br> | **TB1:** A lo largo del desarrollo de nuestro proyecto, trabajamos de manera colaborativa, brindando liderazgo conjunto dentro del equipo. Cada miembro asumió responsabilidades clave para asegurar la correcta ejecución de las tareas, desde la conceptualización hasta el desarrollo de la Landing Page. Esta cooperación nos permitió integrar diversas perspectivas y habilidades, manteniendo una comunicación constante y fluida. El liderazgo compartido facilitó la toma de decisiones estratégicas y nos ayudó a mantener el enfoque en los objetivos comunes, garantizando así el éxito del proyecto. <br> ***TP:*** En el desarrollo del frontend de Zenflicks el trabajo en equipo ha sido esencial para proporcionar liderazgo conjunto en todas las fases del proyecto. Cada miembro del equipo asumió un rol clave, desde la creación de interfaces intuitivas hasta la implementación de funcionalidades como la recomendación de contenido. A través de una colaboración constante y efectiva, logramos establecer metas claras, asignar tareas y superar los desafíos del desarrollo. Esta sinergia permitió entregar un frontend funcional y atractivo, orientado a brindar una experiencia de usuario personalizada que apoya el bienestar mental, cumpliendo con los objetivos del proyecto. <br> ***TB2:*** A lo largo del desarrollo del de esta entrega, el equipo demostró su capacidad de colaboración conjunto al construir los endpoints necesarios. Mediante una planificación estratégica y asignación de roles, cada miembro se enfocó en áreas clave, asegurando que los endpoints fueran implementados con consistencia y eficacia. La comunicación continua permitió que todos los integrantes compartieran sus conocimientos técnicos, promoviendo un entorno de apoyo mutuo y logrando un sistema funcional que responde a los objetivos planteados. Este enfoque colaborativo garantizó un backend alineado con las necesidades de la aplicación, reflejando el compromiso con la excelencia técnica y la cooperación.  |/*¡¡¡¡¡¡¡¡¡¡AQUÍ EMPIEZA EL OTRO CRITERIOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!*/
+| Crea un entorno colaborativo e inclusivo, establece metas,planifica tareas y cumple objetivos. | **Avila, Aaron** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Lastra, Georgina** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Pilares, Maria** <br> ***TB1:*** <br> - Desarrollo del Capítulo 3: User Story / Product Backlog <br> - Entrevista a creador de contenido <br> - Desarrollo de Ubiquitous Language <br> - Elaboración de Class Diagrams <br> - Elaboración de Class Dictionary <br> - Elaboración del PPT <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Miranda, Piero** <br> ***TB1:***  <br> - Desarrollo del capitulo 1 <br> - Entrevista a segmento ciudadano <br> -Desarrollo de Style Guidelines/Information Architecture/Landing Page UI <br> -Web Application Wireframes & Mock Ups <br> - Desarrollo del capitulo 5 <br> <br> ***TP:*** Implementacio de formulario para conocer estado de animo de usuario y asi recomendar contenido personalizado. <br> <br> ***TB2:*** Desarrollo de endpoints del bounded context users <br> <br> **Quispe, Raul** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Ramirez, Diego** <br> ***TB1:*** <br><br>- Entrevista a Creador de contenido<br> <br>- Elaboración de los diagramas C4 <br> <br> - Elaboración de los diagramas de flujo de los Wireframes<br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> | **TB1:** Durante el desarrollo de nuestro proyecto, logramos crear un entorno colaborativo e inclusivo, donde cada integrante del equipo aportó sus ideas y habilidades de manera equitativa. Establecimos metas claras desde el inicio, planificamos las tareas de forma estructurada y distribuimos responsabilidades de manera efectiva. Gracias a esta organización, cumplimos con los objetivos establecidos dentro de los plazos acordados, asegurando que cada fase del proyecto, incluyendo la creación de la Landing Page, se completara de manera eficiente y en armonía con la visión compartida del equipo. <br> ***TP:*** En el desarrollo del frontend de Zenflicks logramos crear un entorno colaborativo e inclusivo, donde cada integrante del equipo aportó sus ideas y habilidades para alcanzar los objetivos propuestos. Establecimos metas claras desde el inicio, planificamos cuidadosamente las tareas y mantuvimos una comunicación constante para asegurar que todos estuvieran alineados con la visión del proyecto. Este enfoque permitió cumplir con los plazos establecidos y entregar una aplicación funcional y bien diseñada, centrada en ofrecer recomendaciones personalizadas de contenido que promueven el bienestar mental de los usuarios. <br> ***TB2:*** Durante el desarrollo, cada integrante pudo aportar sus habilidades y conocimientos, independientemente de su rol. Desde el establecimiento de metas hasta la planificación detallada de cada tarea, el equipo mantuvo una comunicación abierta y un enfoque de apoyo mutuo, lo que permitió cumplir con los objetivos propuestos de manera eficiente. La estructura organizada de nuestro flujo de trabajo facilitó el desarrollo y la integración de los endpoints necesarios para las funcionalidades requeridas, asegurando un progreso continuo y una ejecución de alta calidad. Este ambiente de cooperación y el cumplimiento de los plazos acordados reflejan el compromiso del equipo con la excelencia y el respeto mutuo. |   
   
 ---  
 # Contenido  
@@ -2404,10 +2404,341 @@ Link a pagina web desplegada:
 |-----|----|----|
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
 
-  
+  - ### 5.2.3 Sprint 3
 
+- #### 5.2.3.1. Sprint Planning 3
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>19/10/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>16:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>TechOps Team</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td> Aaron Avila, Georgina Lastra, Maria Pilares,Piero Miranda, Raul Quispe, Diego Ramirez</td>
+        </tr>
+        <tr>
+            <td>Sprint 2  Review Summary</td>
+            <td>Se completaron las tareas asignadas previamente</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>Se necesitó mayor organizacion dentro del equipo de trabajo.</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>Implementar la primera version de los Web Services. </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>40</td>
+        </tr>
+    </tbody>
+</table>
+
+- #### 5.2.3.2. Sprint Backlog 3
+
+<table>
+    <thead>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="5">Sprint 3</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="4">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </thead>
+    <tbody>
+	    <tr>
+                <td>US29</td>
+                <td>Implementación de Autenticación con Tokens</td>
+                <td>Como developer, quiero implementar autenticación de usuarios con tokens para garantizar la seguridad de las cuentas.</td>
+                <td>5hrs</td>
+                <td>Piero Miranda</td>
+                <td>In-Process</td>
+            </tr>
+	    <tr>
+                <td>US30</td>
+                <td>Gestión de Suscripciones mediante API</td>
+                <td>Como developer, quiero gestionar suscripciones a través de la API para crear, modificar o cancelar suscripciones de usuarios.</td>
+                <td>5hrs</td>
+                <td>Diego Ramirez</td>
+                <td>In-Process</td>
+            </tr>
+	    <tr>
+                <td>US31</td>
+                <td>Endpoint para Contenidos Recomendados</td>
+                <td>Como developer, quiero crear un endpoint que devuelva una lista de contenidos recomendados para los usuarios basados en sus preferencias.</td>
+                <td>4hrs</td>
+                <td>Raul Quispe</td>
+                <td>To-Review</td>
+            </tr>
+	    <tr>
+                <td>US32</td>
+                <td>Creación de Nuevos Eventos en la Plataforma</td>
+                <td>Como developer, quiero implementar un endpoint para crear nuevos eventos en la plataforma para mantener la información actualizada.</td>
+                <td>4hrs</td>
+                <td>Maria Pilares</td>
+                <td>In-Process</td>
+            </tr>
+	    <tr>
+                <td>US33</td>
+                <td>Gestión de Valoraciones y Reseñas a través de API</td>
+                <td>Como developer, quiero crear un endpoint para gestionar valoraciones y reseñas de los contenidos para mejorar la retroalimentación del usuario.</td>
+                <td>5hrs</td>
+                <td>Aaron Avila, Georgina Lastra</td>
+                <td>In-Process</td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.3.3. Development Evidence for Sprint Review
+
+<table>
+    <thead>
+            <tr>
+                <td><strong>Repository</strong></td>
+                <td><strong>Branch</strong></td>
+                <td><strong>Commit ID</strong></td>
+                <td><strong>Commit Message</strong></td>
+                <td><strong>Commit Message Body</strong></td>
+                <td><strong>Commited on (Date)</strong></td>
+            </tr>
+    </thead>
+    <tbody>
+	    <tr>
+                <td>https://github.com/TechOpsUPC/Backend</td>
+                <td>Main</td>
+                <td>9381380</td>
+                <td>chore:initial commit</td>
+                <td>chore:initial commit</td>
+                <td>02/11/24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Develop</td>
+                <td>b18fecb</td>
+                <td>feat: added AppDbContext</td>
+                <td>feat: added AppDbContext</td>
+                <td>02/11/24</td>
+            </tr>
+	     <tr>
+                <td></td>
+                <td>Develop</td>
+                <td>5f3f1ba</td>
+                <td>chore: added configuration for programs.cs</td>
+                <td>chore: added configuration for programs.cs</td>
+                <td>02/11/24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>feature/users</td>
+                <td>cbe263f</td>
+                <td>feat: added user controller</td>
+        	<td>feat: added user controller</td>
+                <td>03/11/24</td>
+            </tr>
+        <tr>
+                <td></td>
+                <td>feature/events</td>
+                <td>fc0cf78</td>
+                <td>feat: added event infrastructure files</td>
+        	<td>feat: added event infrastructure files</td>
+                <td>03/11/24</td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+ 
+Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
+
+
+- #### 5.2.3.5. Execution Evidence for Sprint Review
+
+* **Bounded Context Users**
+
+![users-endpoints](images/user-endpoints-zen.JPG)
+
+![users-post](images/post-user-endpoint.JPG)
+
+![users-get-id](images/get-user-id-endpoint.JPG)
+
+![users-get-up](images/get-user-up-endpoinbt.JPG)
+
+
+* **Bounded Context Events**
+
+![events-endpoints](images/Events-endpoints.png)
+
+![events-post](images/Events-post-endpoint.png)
+
+![events-get-id](images/Events-getId-endpint.png)
+
+![events-get-up](images/Events-get-endpint.png)	
+
+
+ - #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para el desarrollo del frontend, se emplearon las siguientes tecnologías:
+
+HTML: Lenguaje de marcado utilizado para estructurar el contenido de una página web, como encabezados, párrafos e imágenes.
+
+CSS: Lenguaje de estilo que define la apariencia de las páginas web, incluyendo colores, tipografías y fondos.
+
+Vue: Framework que facilitó la creación del frontend.
+
+Git: Sistema de control de versiones que permite gestionar y seguir los cambios en el código, facilitando la colaboración en equipo durante el desarrollo de la landing page.
+
+GitHub: Plataforma en línea para alojar repositorios Git, compartir código y colaborar en proyectos, lo que fue esencial para el desarrollo colaborativo del equipo.
+
+
+
+
+En cuanto al backend, se utilizaron las siguientes tecnologías:
+
+ASP.NET Core: Framework de desarrollo web de código abierto y multiplataforma creado por Microsoft, diseñado para construir aplicaciones web modernas y de alto rendimiento.
+
+C#: Lenguaje de programación orientado a objetos desarrollado por Microsoft, utilizado principalmente para desarrollar aplicaciones en la plataforma .NET, incluyendo aplicaciones web, de escritorio y móviles.
+
+Swagger: Conjunto de herramientas de código abierto para diseñar, construir, documentar y consumir servicios web RESTful, permitiendo la automatización de la generación de documentación y pruebas interactivas para las APIs.
+
+OpenAPI Specification: Estándar para describir APIs RESTful de manera independiente del lenguaje, que define una interfaz para descubrir y comprender las capacidades de un servicio web sin necesidad de acceder al código fuente, simplificando la documentación, el desarrollo y la integración de APIs.
+
+
+ - #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
+|-----|----|----|
+
+
+Link a pagina web desplegada: 
+
+|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
+|-----|----|----|
+
+ 
+
+- #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+## 5.3 Validation  Interviews.
+
+- ### 5.3.1 Diseño de entrevistas.
+ #### Formato de preguntas para entrevistas de validacion 
+ 
+ - ¿Qué opinas de la apariencia general del landing page y del mensaje que este transmite? ¿Te queda clara la propuesta de MindFlix para ayudar a los usuarios a mejorar su bienestar mental?
+ - ¿Las secciones en la página de inicio (como beneficios, testimonios, etc) te ayudan a comprender lo que ofrece la aplicación?
+ - ¿Qué tan intuitiva te resulta la navegación en el landing page y el frontend? ¿Hay algo que te confunda?
+ - ¿Te sientes motivado/a a registrarte en la plataforma al ver lo ofrecido? ¿Por qué o por qué no?
+ - ¿Crees que el objetivo principal de la aplicacion, que es recomendar contenido en base a tu estado de animo,  cumple su funcion de manera correcta?
+ - ¿Te gustaría participar en eventos en vivo o foros como se propone en el landing page? ¿Qué te motivaría a hacerlo?
+ - ¿Qué cambiarías o agregarías en el landing page o frontend application para hacerlo más claro o atractivo para ti?
+  
+- ### 5.3.2 Registro de entrevistas
+
+  **Entrevista N°1:**
+- Nombre: Sergio 
+- Apellidos: Licas
+- Edad: 41
+- Ubicación: San Borja
+- Inicio de la Entrevista: 
+- Duración de la Entrevista: 7:20 min
+
+**Resumen de la Entrevista:**
+El usuario nos da opiniones positivas acerca de su interaccion son la aplicacion, tanto con el landing page como con el web application. Se menciona la forma en la cual este logra interacturar y  los beneficios que este obtiene. Por ultimo se mencionan caracteristicas las cuales seran tomadas en cuenta en el futuro
+
+  |**`Link To Videos`**|>|link.link|
+|-----|----|----|
+
+- ### 5.3.3 Evaluaciones segun heuristicas
+
+
+#### 1. Visibilidad del Estado del Sistema
+Los usuarios comentaron que debería haber una mayor claridad visual en botones como "Perfil" y "Métodos de Pago". Aunque el sistema proporciona una visibilidad adecuada, la apariencia de algunos botones no es intuitiva, ya que su color o bordes no los hacen fácilmente reconocibles.
+
+#### 2. Relación entre el Sistema y el Mundo Real
+El uso de imágenes del catálogo en la página principal generó confusión entre los usuarios, ya que algunos percibieron la app como una aplicación de entretenimiento en lugar de una herramienta para el bienestar mental. Este aspecto requiere ajustes para alinear mejor la aplicación con su propósito original.
+
+#### 3. Libertad y Control por Parte del Usuario
+Los usuarios valoraron positivamente la opción de actualizar el estado del menú en tiempo real y la flexibilidad que ofrece la funcionalidad de actividades en grupo, lo cual les permite mayor control sobre su experiencia.
+
+#### 4. Consistencia y Estándares
+En general, los usuarios encontraron la organización de la información adecuada, especialmente en la pantalla de registro. Sin embargo, sugirieron mejorar el espaciado entre elementos y la visibilidad de algunos botones para mantener la coherencia visual y funcional.
+
+#### 5. Prevención de Errores
+La aplicación permite un control y organización que minimizan los errores, incluyendo notificaciones sobre el estado de las vistas. Sin embargo, la confusión causada por las imágenes del catálogo podría generar malentendidos y debería abordarse para prevenir errores.
+
+#### 6. Flexibilidad y Eficiencia de Uso
+La mayoría de los usuarios expresó opiniones positivas sobre la aplicación, resaltando su funcionamiento claro y directo. Sin embargo, algunos usuarios señalaron problemas de visibilidad y espaciado, que podrían depender de la resolución de pantalla y afectar la experiencia de usuario.
+
+##### 7. Estética y Diseño Minimalista
+El diseño visual fue bien recibido, con recomendaciones para ajustar las imágenes y mejorar el espaciado y los botones. Esto ayudaría a crear una apariencia más limpia y alineada con un enfoque minimalista.
+
+##### 8. Ayudar a los Usuarios a Reconocer, Diagnosticar y Corregir Errores
+El sistema tiene un manejo eficiente de pedidos y actualizaciones en tiempo real. Sin embargo, la falta de claridad visual en algunos botones dificulta la detección rápida de errores o acciones pendientes.
+
+##### 9. Ayuda y Documentación
+Aunque no hubo observaciones directas sobre la documentación, la claridad y accesibilidad de la interfaz son aspectos bien percibidos. Se sugiere la inclusión de ayudas visuales en áreas clave para reforzar la experiencia de usuario.
+
+
+
+# Evaluación de Usabilidad
+
+Este documento presenta los hallazgos y recomendaciones para mejorar la usabilidad de la aplicación, basados en la retroalimentación de los usuarios.
+
+## 5.4 Video About-The-Product.
+
+|**`Link To Video`**|>|[link.link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz)|
+|-----|----|----|
     
 # Conclusiones  
 ### Conclusiones y recomendaciones  
+
+En conclusión, el avance del proyecto logró resultar en el cumplimiento de los objetivos planteados, a saber, la contextualización del problema y solución, el desarrollo y despliegue de la primera versión de la landing, y en especial, en la implementación de funcionalidades clave. Todos los integrantes del equipo lograron contribuir al avance de las fases del proyecto. Así, la relevancia que adquirió la tarea de comunicación y colabroación entre miembros del equipo fue uno de los aprendizajes destacados. 
+
+De igual forma la utilización de herramientas colaborativas como GitHub o Figma, las más destacadas, fue fundamental para la coordinación del trabajo al permitirnos una correcta administración del código y la visualización del diseño como también de la landing page. Así, se pudo aprender que el manejo de herramientas mejora organización, planificación y eficiencia.
+
 ### Video About-the-Team  
+
+|**`Link To Video`**|>|link.link|
+|-----|----|----|
   
