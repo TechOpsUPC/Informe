@@ -2845,7 +2845,7 @@ Link a pagina web desplegada:
 
 - #### 5.2.4.4. Testing Suite Evidence for Sprint Review
  
-
+Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
 
 - #### 5.2.4.5. Execution Evidence for Sprint Review
 
