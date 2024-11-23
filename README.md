@@ -2659,6 +2659,8 @@ Link a pagina web desplegada:
 
 - #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+![insights-sprint3-image](images/insights-sprint-3.JPG.png)
+
  - ### 5.2.4 Sprint 4 
 - #### 5.2.4.1. Sprint Planning 4
 
