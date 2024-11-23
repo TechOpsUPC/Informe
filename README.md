@@ -53,6 +53,7 @@ Producto: ZenFlicks
 ---  
 # Project Report Collaboration Insights  
   
+![insights-zenflicks](images/insights-zen.JPG)
   
 ---  
 # Student Outcome  
