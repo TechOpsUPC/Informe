@@ -2848,12 +2848,17 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
 - #### 5.2.4.5. Execution Evidence for Sprint Review
 
-* **Bounded Context Users**
+* **Landing Page implementada**
 
+![landing-sp4](images/landing-sp-4.JPG)
+  
+* **Web Application implementado**
 
+![web-pp](images/homepage_deployed_zen.JPG)
+  
+* **Web services implementado**
 
-* **Bounded Context Events**
-
+![endpoints-sp4](images/zenflicks-endpoints.JPG)
 
 
  - #### 5.2.4.6. Services Documentation Evidence for Sprint Review
