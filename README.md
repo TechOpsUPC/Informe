@@ -2938,7 +2938,7 @@ El usuario nos da opiniones positivas acerca de su interaccion son la aplicacion
 **Resumen de la Entrevista:**
 El usuario opina positivamente sobre el diseño del landing page, destacando los colores e imágenes atractivas, y la claridad de la propuesta de MindFlix. Considera que las secciones son simples, interactivas y fáciles de entender, y la navegación es clara. Se siente motivado a registrarse porque la plataforma le ofrece una solución para mejorar su estado de ánimo. Cree que el objetivo de recomendar contenido según el ánimo se cumple correctamente. También muestra interés en eventos en vivo o foros, y sugiere agregar un video tutorial para facilitar el uso a quienes lo necesiten.
 
-  |**`Link To Videos`**|>|link.link|
+  |**`Link To Videos`**|>|[validation-interview-videos](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/ERCiMvHqzLZGmtoWay7jYn0B-AXY7gGXkCvt9JqLX7GXXw?e=5Kd3Aa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
 |-----|----|----|
 
 - ### 5.3.3 Evaluaciones segun heuristicas
@@ -2979,19 +2979,14 @@ Este documento presenta los hallazgos y recomendaciones para mejorar la usabilid
 
 ## 5.4 Video About-The-Product
 
-|**`Link To Video`**|>|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz)|
+|**`Link To Video`**|>|[About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz)|
 |-----|----|----|
 
 ### Video About-the-Team  
 
-|**`Link To Video`**|>|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822503_upc_edu_pe/EV_1O17zlG5FraK-Hn62dq8BpIe8mb9D6b12rSrla0nEvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g8TTrX](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822503_upc_edu_pe/EV_1O17zlG5FraK-Hn62dq8BpIe8mb9D6b12rSrla0nEvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g8TTrX)|
+|**`Link To Video`**|>|[About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822503_upc_edu_pe/EV_1O17zlG5FraK-Hn62dq8BpIe8mb9D6b12rSrla0nEvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g8TTrX)|
 |-----|----|----|
 
-|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
-|-----|----|----|
-
-|**`Link To Video`**|>|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EYYgfO6qv-5FmvdWoWJUfg0BVwG2fV3Omko6SU_1C7B8eQ?e=YplrsE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EYYgfO6qv-5FmvdWoWJUfg0BVwG2fV3Omko6SU_1C7B8eQ?e=YplrsE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
-|-----|----|----|
 
 #### 5.6 Conclusiones  
 Impacto en el Bienestar Mental de los Usuarios: El desarrollo de ZenFlicks permitió ofrecer una plataforma que combina entretenimiento audiovisual con el objetivo de mejorar el bienestar mental de los usuarios. La funcionalidad de recomendaciones personalizadas demostró ser efectiva para ayudar a los usuarios a aliviar el estrés y promover una actitud más positiva.
@@ -3010,12 +3005,17 @@ Propuesta de Valor Competitiva: ZenFlicks se posiciona como una solución innova
 
 ### Bibiografía
 ### Anexos
-Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=0-1&t=y8eCI9FRfjMTvZ6X-1
+Figma: [Link-to-Figma](https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=0-1&t=y8eCI9FRfjMTvZ6X-1)
 
-Video de exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EctyfRFit8dDqTZzaAXPxb0B_ghGTx3ExnxbCbEjFsouRA?e=JwKKp8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video de exposición TB1: [TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EctyfRFit8dDqTZzaAXPxb0B_ghGTx3ExnxbCbEjFsouRA?e=JwKKp8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ### Video About-the-Team  
 
 |**`Link To Video`**|>|[link.link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EYYgfO6qv-5FmvdWoWJUfg0BVwG2fV3Omko6SU_1C7B8eQ?e=YplrsE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+|-----|----|----|
+
+### Entrevistas de validacion 
+
+  |**`Link To Videos`**|>|[validation-interview-videos](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/ERCiMvHqzLZGmtoWay7jYn0B-AXY7gGXkCvt9JqLX7GXXw?e=5Kd3Aa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
 |-----|----|----|
