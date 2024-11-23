@@ -2968,7 +2968,7 @@ Este documento presenta los hallazgos y recomendaciones para mejorar la usabilid
 
 ### Video About-the-Team  
 
-|**`Link To Video`**|>|link.link|
+|**`Link To Video`**|>|[link.link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EYYgfO6qv-5FmvdWoWJUfg0BVwG2fV3Omko6SU_1C7B8eQ?e=YplrsE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
 |-----|----|----|
 
 #### 5.6 Conclusiones  
@@ -2994,6 +2994,6 @@ Video de exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g7
 
 ### Video About-the-Team  
 
-|**`Link To Video`**|>|link.link|
+|**`Link To Video`**|>|[link.link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EYYgfO6qv-5FmvdWoWJUfg0BVwG2fV3Omko6SU_1C7B8eQ?e=YplrsE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
 |-----|----|----|
   
