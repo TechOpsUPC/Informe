@@ -2895,7 +2895,7 @@ OpenAPI Specification: Estándar para describir APIs RESTful de manera independi
 
 Link a pagina web desplegada: 
 
-|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
+|**`FRONTEND DESPLEGADO`**|>|[https://techopsupc.github.io/Landing-Page/]|
 |-----|----|----|
 
 
