@@ -2666,7 +2666,7 @@ Link a pagina web desplegada:
     <thead>
         <tr>
             <td>Sprint #</td>
-            <td>Sprint 3</td>
+            <td>Sprint 4</td>
         </tr>
         <tr>
             <td colspan="2">Sprint Planning Background</td>
