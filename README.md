@@ -2863,8 +2863,10 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 ![endpoints-sp4](images/zenflicks-endpoints.JPG)
 
 
-|**`Video de Evidencia del servicio web`**|>|[https://zenflicks-55f56.web.app/](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/Ef584tom1GZKgzE-IlzqyQQBn5tNHZgNZFNm-V25bO5HWw?e=feOfxo)|
+|**`Video de Evidencia del servicio web`**|>|[LINK VIDEO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/Ef584tom1GZKgzE-IlzqyQQBn5tNHZgNZFNm-V25bO5HWw?e=feOfxo)|
 |-----|----|----|
+
+
  - #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Para el desarrollo del frontend, se emplearon las siguientes tecnologías:
