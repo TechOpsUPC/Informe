@@ -66,8 +66,8 @@ del ABET – EAC - Student Outcome 5.
   
 | Criterio específico | Acciones realizadas  | Conclusiones |  
 | - | - | - |  
-| Trabaja en equipo para proporcionar liderazgo enforma conjunta. | **Avila, Aaron** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Lastra, Georgina** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> ***TF:*** (TF) <br> <br> **Pilares, Maria** <br> ***TB1:*** <br> - Desarrollo del Capítulo 3: User Story / Product Backlog <br> - Entrevista a creador de contenido <br> - Desarrollo de Ubiquitous Language <br> - Elaboración de Class Diagrams <br> - Elaboración de Class Dictionary <br> - Elaboración del PPT <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> ***TF:*** (TF) <br> <br> **Miranda, Piero** <br> ***TB1:*** <br> - Desarrollo del capitulo 1 <br> - Entrevista a segmento ciudadano <br> -Desarrollo de Style Guidelines/Information Architecture/Landing Page UI <br> -Web Application Wireframes & Mock Ups <br> - Desarrollo del capitulo 5  <br> <br> ***TP:*** Desarrollo del login, y registro de usuario. Al igual que sidebar de navegacion.  <br> <br> ***TB2:*** Desarrollo de endpoints del bounded context users <br> <br> ***TF:*** (TF) <br> <br> **Quispe, Raul** <br> ***TB1:*** Desarrollo del Capitulo 2 completo y entrevista a un segmento ciudadano. <br> <br> ***TP:*** Desarrollo y mejoras del content. <br> <br> ***TB2:*** Desarrollo del endpoint /content y /content-recent, también mejorando gran parte del frontend <br> <br> ***TF:*** Mejorando completamente el frontend y entrevista final mostrando el frontend y landing page. <br> <br>  **Ramirez, Diego** <br> ***TB1:***<br><br>- Entrevista a Creador de contenido<br> <br>- Elaboración de los diagramas C4<br> <br> - Elaboración de los diagramas de flujo de los Wireframes <br> ***TB2:*** (TB2) <br> <br><br> ***TF:*** (TF) <br> <br> | A lo largo del desarrollo del proyecto, el trabajo en equipo fue fundamental para proporcionar un liderazgo conjunto que impulsó el éxito en cada fase. Cada miembro asumió roles clave, desde la conceptualización inicial hasta la implementación del frontend y backend, asegurando una ejecución eficiente y alineada con los objetivos del proyecto. La comunicación constante y la planificación estratégica permitieron integrar diversas perspectivas y superar desafíos, promoviendo un entorno de apoyo mutuo y colaboración efectiva. Este liderazgo compartido no solo facilitó la toma de decisiones estratégicas, sino que también garantizó el cumplimiento de los objetivos técnicos y la entrega de un producto funcional y orientado a las necesidades del usuario.  |/*¡¡¡¡¡¡¡¡¡¡AQUÍ EMPIEZA EL OTRO CRITERIOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!*/
-| Crea un entorno colaborativo e inclusivo, establece metas,planifica tareas y cumple objetivos. | **Avila, Aaron** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Lastra, Georgina** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> ***TF:*** (TF) <br> <br>  **Pilares, Maria** <br> ***TB1:*** <br> - Desarrollo del Capítulo 3: User Story / Product Backlog <br> - Entrevista a creador de contenido <br> - Desarrollo de Ubiquitous Language <br> - Elaboración de Class Diagrams <br> - Elaboración de Class Dictionary <br> - Elaboración del PPT <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> ***TF:*** (TF) <br> <br> **Miranda, Piero** <br> ***TB1:***  <br> - Desarrollo del capitulo 1 <br> - Entrevista a segmento ciudadano <br> -Desarrollo de Style Guidelines/Information Architecture/Landing Page UI <br> -Web Application Wireframes & Mock Ups <br> - Desarrollo del capitulo 5 <br> <br> ***TP:*** Implementacio de formulario para conocer estado de animo de usuario y asi recomendar contenido personalizado. <br> <br> ***TB2:*** Desarrollo de endpoints del bounded context users <br> <br> ***TF:*** (TF) <br> <br> **Quispe, Raul** <br> ***TB1:*** He trabajado colaborativamente y cumpliendo mi parte comprometido e incluso ayudé otras partes. <br> <br> ***TP:*** Ayudé a mis compañeros porque me sentía responsable del grupo, terminando varias vistas. <br> <br> ***TB2:*** Me responsabilicé mi parte correspondido y trabajé satisfactoriamente. <br> <br>  ***TF:*** He completado gran parte felizmente y fui de mucha ayuda para el grupo. <br> <br> **Ramirez, Diego** <br> ***TB1:*** <br><br>- Entrevista a Creador de contenido<br> <br>- Elaboración de los diagramas C4 <br> <br> - Elaboración de los diagramas de flujo de los Wireframes<br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> ***TF:*** (TF) <br> <br> | Durante el desarrollo del proyecto, logramos crear un entorno colaborativo e inclusivo que permitió a cada integrante aportar sus ideas, habilidades y conocimientos de manera equitativa. Establecimos metas claras desde el inicio, planificamos las tareas de forma estructurada y distribuimos responsabilidades de manera efectiva. Este enfoque facilitó la comunicación abierta y el apoyo mutuo, asegurando que todas las fases del proyecto, desde la creación del frontend y la Landing Page hasta la integración de los endpoints, se completaran dentro de los plazos establecidos. La organización y la alineación con la visión compartida del equipo permitieron cumplir los objetivos con excelencia, reflejando nuestro compromiso con un trabajo eficiente, respetuoso y de alta calidad. |   
+| Trabaja en equipo para proporcionar liderazgo enforma conjunta. | **Avila, Aaron** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Lastra, Georgina** <br> ***TB1:***  Realizó el To-be scenario mapping, Impact Mapping. Así como también una entrevista y su respectivo análisis para el segmento objetivo.  <br> <br>***TP:*** Se realizó el desarrollo de la vista home tomando en cuenta los criterios de diseño. Asimismo la elaboración de las diapositivas.  <br> <br>***TB2:*** Se trabajó en el desarrollo de la parte lógica del proyecto. <br> <br>***TF:*** Coordinamos los últimos detalles del producto final, destacando el liderazgo conjunto para asegurar una entrega exitosa y funcional. <br> <br> **Pilares, Maria** <br> ***TB1:*** <br> - Desarrollo del Capítulo 3: User Story / Product Backlog <br> - Entrevista a creador de contenido <br> - Desarrollo de Ubiquitous Language <br> - Elaboración de Class Diagrams <br> - Elaboración de Class Dictionary <br> - Elaboración del PPT <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> ***TF:*** (TF) <br> <br> **Miranda, Piero** <br> ***TB1:*** <br> - Desarrollo del capitulo 1 <br> - Entrevista a segmento ciudadano <br> -Desarrollo de Style Guidelines/Information Architecture/Landing Page UI <br> -Web Application Wireframes & Mock Ups <br> - Desarrollo del capitulo 5  <br> <br> ***TP:*** Desarrollo del login, y registro de usuario. Al igual que sidebar de navegacion.  <br> <br> ***TB2:*** Desarrollo de endpoints del bounded context users <br> <br> ***TF:*** (TF) <br> <br> **Quispe, Raul** <br> ***TB1:*** Desarrollo del Capitulo 2 completo y entrevista a un segmento ciudadano. <br> <br> ***TP:*** Desarrollo y mejoras del content. <br> <br> ***TB2:*** Desarrollo del endpoint /content y /content-recent, también mejorando gran parte del frontend <br> <br> ***TF:*** Mejorando completamente el frontend y entrevista final mostrando el frontend y landing page. <br> <br>  **Ramirez, Diego** <br> ***TB1:***<br><br>- Entrevista a Creador de contenido<br> <br>- Elaboración de los diagramas C4<br> <br> - Elaboración de los diagramas de flujo de los Wireframes <br> ***TB2:*** (TB2) <br> <br><br> ***TF:*** (TF) <br> <br> | A lo largo del desarrollo del proyecto, el trabajo en equipo fue fundamental para proporcionar un liderazgo conjunto que impulsó el éxito en cada fase. Cada miembro asumió roles clave, desde la conceptualización inicial hasta la implementación del frontend y backend, asegurando una ejecución eficiente y alineada con los objetivos del proyecto. La comunicación constante y la planificación estratégica permitieron integrar diversas perspectivas y superar desafíos, promoviendo un entorno de apoyo mutuo y colaboración efectiva. Este liderazgo compartido no solo facilitó la toma de decisiones estratégicas, sino que también garantizó el cumplimiento de los objetivos técnicos y la entrega de un producto funcional y orientado a las necesidades del usuario.  |/*¡¡¡¡¡¡¡¡¡¡AQUÍ EMPIEZA EL OTRO CRITERIOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!*/
+| Crea un entorno colaborativo e inclusivo, establece metas,planifica tareas y cumple objetivos. | **Avila, Aaron** <br> ***TB1:*** (TB1) <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> **Lastra, Georgina** <br> ***TB1:*** Creamos un ambiente inclusivo desde el inicio, promoviendo la participación equitativa y estableciendo metas claras para guiar el desarrollo inicial. <br> <br> ***TP:*** Organizamos el trabajo en sprints, asegurando que todos los integrantes tuvieran un rol activo en la planificación y ejecución de las tareas. <br> <br> ***TB2:*** Planificamos tareas específicas para cada miembro y mantuvimos una comunicación constante para monitorear el cumplimiento de objetivos. <br> <br> ***TF:*** Finalizamos el proyecto trabajando en un entorno colaborativo, cumpliendo con las metas establecidas y celebrando los logros como equipo. <br> <br>  **Pilares, Maria** <br> ***TB1:*** <br> - Desarrollo del Capítulo 3: User Story / Product Backlog <br> - Entrevista a creador de contenido <br> - Desarrollo de Ubiquitous Language <br> - Elaboración de Class Diagrams <br> - Elaboración de Class Dictionary <br> - Elaboración del PPT <br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> ***TF:*** (TF) <br> <br> **Miranda, Piero** <br> ***TB1:***  <br> - Desarrollo del capitulo 1 <br> - Entrevista a segmento ciudadano <br> -Desarrollo de Style Guidelines/Information Architecture/Landing Page UI <br> -Web Application Wireframes & Mock Ups <br> - Desarrollo del capitulo 5 <br> <br> ***TP:*** Implementacio de formulario para conocer estado de animo de usuario y asi recomendar contenido personalizado. <br> <br> ***TB2:*** Desarrollo de endpoints del bounded context users <br> <br> ***TF:*** (TF) <br> <br> **Quispe, Raul** <br> ***TB1:*** He trabajado colaborativamente y cumpliendo mi parte comprometido e incluso ayudé otras partes. <br> <br> ***TP:*** Ayudé a mis compañeros porque me sentía responsable del grupo, terminando varias vistas. <br> <br> ***TB2:*** Me responsabilicé mi parte correspondido y trabajé satisfactoriamente. <br> <br>  ***TF:*** He completado gran parte felizmente y fui de mucha ayuda para el grupo. <br> <br> **Ramirez, Diego** <br> ***TB1:*** <br><br>- Entrevista a Creador de contenido<br> <br>- Elaboración de los diagramas C4 <br> <br> - Elaboración de los diagramas de flujo de los Wireframes<br> <br> ***TP:*** (TP) <br> <br> ***TB2:*** (TB2) <br> <br> ***TF:*** (TF) <br> <br> | Durante el desarrollo del proyecto, logramos crear un entorno colaborativo e inclusivo que permitió a cada integrante aportar sus ideas, habilidades y conocimientos de manera equitativa. Establecimos metas claras desde el inicio, planificamos las tareas de forma estructurada y distribuimos responsabilidades de manera efectiva. Este enfoque facilitó la comunicación abierta y el apoyo mutuo, asegurando que todas las fases del proyecto, desde la creación del frontend y la Landing Page hasta la integración de los endpoints, se completaran dentro de los plazos establecidos. La organización y la alineación con la visión compartida del equipo permitieron cumplir los objetivos con excelencia, reflejando nuestro compromiso con un trabajo eficiente, respetuoso y de alta calidad. |   
   
 ---  
 # Contenido  
@@ -2751,7 +2751,7 @@ Link a pagina web desplegada:
             </tr>
 	    <tr>
                 <td>US30</td>
-                <td>Gestión de Suscripciones mediante API</td>
+                <td>Editar perfil</td>
                 <td>Como usuario, quiero registrarme y acceder al sistema para personalizar mi experiencia.</td>
                 <td>5hrs</td>
                 <td>Diego Ramirez</td>
@@ -2759,7 +2759,7 @@ Link a pagina web desplegada:
             </tr>
 	    <tr>
                 <td>US31</td>
-                <td>Endpoint para Contenidos Recomendados</td>
+                <td>Implementación de foros</td>
                 <td>Como usuario, quiero participar en foros para compartir mis opiniones sobre el contenido recomendado.</td>
                 <td>4hrs</td>
                 <td>Raul Quispe</td>
@@ -2767,7 +2767,7 @@ Link a pagina web desplegada:
             </tr>
 	    <tr>
                 <td>US32</td>
-                <td>Creación de Nuevos Eventos en la Plataforma</td>
+                <td>Optimización de consultas</td>
                 <td>Como administrador, quiero optimizar las consultas a la base de datos para mejorar el rendimiento del sistema.</td>
                 <td>4hrs</td>
                 <td>Maria Pilares</td>
@@ -2775,7 +2775,7 @@ Link a pagina web desplegada:
             </tr>
 	    <tr>
                 <td>US33</td>
-                <td>Gestión de Valoraciones y Reseñas a través de API</td>
+                <td>Optimiación de plataforma</td>
                 <td>Como usuario, quiero que la aplicación funcione sin errores para garantizar una experiencia fluida.</td>
                 <td>5hrs</td>
                 <td>Georgina Lastra</td>
@@ -2804,7 +2804,7 @@ Link a pagina web desplegada:
                 <td>9381380</td>
                 <td>chore:initial commit</td>
                 <td>chore:initial commit</td>
-                <td>02/11/24</td>
+                <td>22/11/24</td>
             </tr>
 	    <tr>
                 <td></td>
@@ -2812,7 +2812,7 @@ Link a pagina web desplegada:
                 <td>b18fecb</td>
                 <td>feat: added AppDbContext</td>
                 <td>feat: added AppDbContext</td>
-                <td>02/11/24</td>
+                <td>22/11/24</td>
             </tr>
 	     <tr>
                 <td></td>
@@ -2820,7 +2820,7 @@ Link a pagina web desplegada:
                 <td>5f3f1ba</td>
                 <td>chore: added configuration for programs.cs</td>
                 <td>chore: added configuration for programs.cs</td>
-                <td>02/11/24</td>
+                <td>22/11/24</td>
             </tr>
 	    <tr>
                 <td></td>
@@ -2828,7 +2828,7 @@ Link a pagina web desplegada:
                 <td>cbe263f</td>
                 <td>feat: added user controller</td>
         	<td>feat: added user controller</td>
-                <td>03/11/24</td>
+                <td>22/11/24</td>
             </tr>
         <tr>
                 <td></td>
@@ -2836,23 +2836,17 @@ Link a pagina web desplegada:
                 <td>fc0cf78</td>
                 <td>feat: added event infrastructure files</td>
         	<td>feat: added event infrastructure files</td>
-                <td>03/11/24</td>
+                <td>22/11/24</td>
             </tr>
     </tbody>
 </table>
 
 - #### 5.2.4.4. Testing Suite Evidence for Sprint Review
  
-Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
 
 
 - #### 5.2.4.5. Execution Evidence for Sprint Review
 
-* **Bounded Context Users**
-
-
-
-* **Bounded Context Events**
 
 
 
@@ -2965,12 +2959,14 @@ Este documento presenta los hallazgos y recomendaciones para mejorar la usabilid
 
 |**`Link To Video`**|>|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz)|
 |-----|----|----|
+![about_product](images/About_the_Product.PNG)
 
 ### Video About-the-Team  
 
 <<<<<<< HEAD
 |**`Link To Video`**|>|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822503_upc_edu_pe/EV_1O17zlG5FraK-Hn62dq8BpIe8mb9D6b12rSrla0nEvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g8TTrX](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822503_upc_edu_pe/EV_1O17zlG5FraK-Hn62dq8BpIe8mb9D6b12rSrla0nEvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g8TTrX)|
 |-----|----|----|
+![about_team](images/About_the_Team.PNG)
 
 |**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
 =======
@@ -2993,7 +2989,26 @@ Fortalecimiento de Competencias: Este proyecto fortaleció habilidades clave en 
 
 Propuesta de Valor Competitiva: ZenFlicks se posiciona como una solución innovadora en el mercado de aplicaciones de bienestar mental al integrar entretenimiento con funcionalidades específicas para mejorar la salud mental, diferenciándose de otros competidores en el sector.
 
-### Bibiografía
+### Referencias
+User vs. Buyer Persona: Differences and free template
+https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
+
+How to create an Impact Map in 4 easy steps?
+https://uxpressia.com/blog/build-impact-map-4-easy-steps
+
+As-is Scenario Map: Build a better understanding of your users’ current experience.
+https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+To-be Scenario Map: Draft a vision of your user’s future experience to show how
+your ideas address their current needs.
+https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+
+Empathy Map: Build empathy for your users through a conversation informed by
+your team’s observations.
+https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
+
+Empathy Mapping: The First Step in Design Thinking
+https://www.nngroup.com/articles/empathy-mapping/
 ### Anexos
 Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=0-1&t=y8eCI9FRfjMTvZ6X-1
 
