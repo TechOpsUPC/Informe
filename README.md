@@ -2897,7 +2897,7 @@ OpenAPI Specification: Estándar para describir APIs RESTful de manera independi
 
 Link a pagina web desplegada: 
 
-|**`FRONTEND DESPLEGADO`**|>|[https://techopsupc.github.io/Landing-Page/]|
+|**`Landing Page`**|>|[https://techopsupc.github.io/Landing-Page/]|
 |-----|----|----|
 
 
@@ -3020,4 +3020,12 @@ Video de exposición TB1: [TB1](https://upcedupe-my.sharepoint.com/:v:/g/persona
 ### Entrevistas de validacion 
 
   |**`Link To Videos`**|>|[validation-interview-videos](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/ERCiMvHqzLZGmtoWay7jYn0B-AXY7gGXkCvt9JqLX7GXXw?e=5Kd3Aa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+|-----|----|----|
+
+### Rest API
+|**`Link API`**|>|https://zenflicks-backend.azurewebsites.net|
+|-----|----|----|
+
+### Landing Page
+|**`Link to Landing Page`**|>|[https://techopsupc.github.io/Landing-Page/]|
 |-----|----|----|
