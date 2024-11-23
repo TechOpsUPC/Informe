@@ -2659,6 +2659,242 @@ Link a pagina web desplegada:
 
 - #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+ - ### 5.2.4 Sprint 4 
+- #### 5.2.4.1. Sprint Planning 4
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>18/11/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>16:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>TechOps Team</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td> Aaron Avila, Georgina Lastra, Maria Pilares,Piero Miranda, Raul Quispe, Diego Ramirez</td>
+        </tr>
+        <tr>
+            <td>Sprint 4  Review Summary</td>
+            <td>Se completaron las tareas asignadas previamente</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>Se necesitó mayor organizacion dentro del equipo de trabajo.</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>Implementar la version final de los Web Services. </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>45</td>
+        </tr>
+    </tbody>
+</table>
+
+- #### 5.2.4.2. Sprint Backlog 4
+
+<table>
+    <thead>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="5">Sprint 4</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="4">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </thead>
+    <tbody>
+	    <tr>
+                <td>US29</td>
+                <td>Implementación de recomendaciones</td>
+                <td>Como usuario, quiero recibir recomendaciones personalizadas de películas/series/documentales según mi estado de ánimo.</td>
+                <td>5hrs</td>
+                <td>Piero Miranda</td>
+                <td>In-Process</td>
+            </tr>
+	    <tr>
+                <td>US30</td>
+                <td>Gestión de Suscripciones mediante API</td>
+                <td>Como usuario, quiero registrarme y acceder al sistema para personalizar mi experiencia.</td>
+                <td>5hrs</td>
+                <td>Diego Ramirez</td>
+                <td>Done</td>
+            </tr>
+	    <tr>
+                <td>US31</td>
+                <td>Endpoint para Contenidos Recomendados</td>
+                <td>Como usuario, quiero participar en foros para compartir mis opiniones sobre el contenido recomendado.</td>
+                <td>4hrs</td>
+                <td>Raul Quispe</td>
+                <td>Done</td>
+            </tr>
+	    <tr>
+                <td>US32</td>
+                <td>Creación de Nuevos Eventos en la Plataforma</td>
+                <td>Como administrador, quiero optimizar las consultas a la base de datos para mejorar el rendimiento del sistema.</td>
+                <td>4hrs</td>
+                <td>Maria Pilares</td>
+                <td>In-Process</td>
+            </tr>
+	    <tr>
+                <td>US33</td>
+                <td>Gestión de Valoraciones y Reseñas a través de API</td>
+                <td>Como usuario, quiero que la aplicación funcione sin errores para garantizar una experiencia fluida.</td>
+                <td>5hrs</td>
+                <td>Georgina Lastra</td>
+                <td>Done</td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.4.3. Development Evidence for Sprint Review
+
+<table>
+    <thead>
+            <tr>
+                <td><strong>Repository</strong></td>
+                <td><strong>Branch</strong></td>
+                <td><strong>Commit ID</strong></td>
+                <td><strong>Commit Message</strong></td>
+                <td><strong>Commit Message Body</strong></td>
+                <td><strong>Commited on (Date)</strong></td>
+            </tr>
+    </thead>
+    <tbody>
+	    <tr>
+                <td>https://github.com/TechOpsUPC/Backend</td>
+                <td>Main</td>
+                <td>9381380</td>
+                <td>chore:initial commit</td>
+                <td>chore:initial commit</td>
+                <td>02/11/24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Develop</td>
+                <td>b18fecb</td>
+                <td>feat: added AppDbContext</td>
+                <td>feat: added AppDbContext</td>
+                <td>02/11/24</td>
+            </tr>
+	     <tr>
+                <td></td>
+                <td>Develop</td>
+                <td>5f3f1ba</td>
+                <td>chore: added configuration for programs.cs</td>
+                <td>chore: added configuration for programs.cs</td>
+                <td>02/11/24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>feature/users</td>
+                <td>cbe263f</td>
+                <td>feat: added user controller</td>
+        	<td>feat: added user controller</td>
+                <td>03/11/24</td>
+            </tr>
+        <tr>
+                <td></td>
+                <td>feature/events</td>
+                <td>fc0cf78</td>
+                <td>feat: added event infrastructure files</td>
+        	<td>feat: added event infrastructure files</td>
+                <td>03/11/24</td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.4.4. Testing Suite Evidence for Sprint Review
+ 
+Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
+
+
+- #### 5.2.4.5. Execution Evidence for Sprint Review
+
+* **Bounded Context Users**
+
+
+
+* **Bounded Context Events**
+
+
+
+ - #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Para el desarrollo del frontend, se emplearon las siguientes tecnologías:
+
+HTML: Lenguaje de marcado utilizado para estructurar el contenido de una página web, como encabezados, párrafos e imágenes.
+
+CSS: Lenguaje de estilo que define la apariencia de las páginas web, incluyendo colores, tipografías y fondos.
+
+Vue: Framework que facilitó la creación del frontend.
+
+Git: Sistema de control de versiones que permite gestionar y seguir los cambios en el código, facilitando la colaboración en equipo durante el desarrollo de la landing page.
+
+GitHub: Plataforma en línea para alojar repositorios Git, compartir código y colaborar en proyectos, lo que fue esencial para el desarrollo colaborativo del equipo.
+
+
+En cuanto al backend, se utilizaron las siguientes tecnologías:
+
+ASP.NET Core: Framework de desarrollo web de código abierto y multiplataforma creado por Microsoft, diseñado para construir aplicaciones web modernas y de alto rendimiento.
+
+C#: Lenguaje de programación orientado a objetos desarrollado por Microsoft, utilizado principalmente para desarrollar aplicaciones en la plataforma .NET, incluyendo aplicaciones web, de escritorio y móviles.
+
+Swagger: Conjunto de herramientas de código abierto para diseñar, construir, documentar y consumir servicios web RESTful, permitiendo la automatización de la generación de documentación y pruebas interactivas para las APIs.
+
+OpenAPI Specification: Estándar para describir APIs RESTful de manera independiente del lenguaje, que define una interfaz para descubrir y comprender las capacidades de un servicio web sin necesidad de acceder al código fuente, simplificando la documentación, el desarrollo y la integración de APIs.
+
+
+ - #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
+|-----|----|----|
+
+
+Link a pagina web desplegada: 
+
+|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
+|-----|----|----|
+
+
+- #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 ## 5.3 Validation  Interviews.
 
@@ -2725,17 +2961,36 @@ Aunque no hubo observaciones directas sobre la documentación, la claridad y acc
 
 Este documento presenta los hallazgos y recomendaciones para mejorar la usabilidad de la aplicación, basados en la retroalimentación de los usuarios.
 
-## 5.4 Video About-The-Product.
+## 5.4 Video About-The-Product
 
 |**`Link To Video`**|>|[link.link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz)|
 |-----|----|----|
-    
-# Conclusiones  
-### Conclusiones y recomendaciones  
 
-En conclusión, el avance del proyecto logró resultar en el cumplimiento de los objetivos planteados, a saber, la contextualización del problema y solución, el desarrollo y despliegue de la primera versión de la landing, y en especial, en la implementación de funcionalidades clave. Todos los integrantes del equipo lograron contribuir al avance de las fases del proyecto. Así, la relevancia que adquirió la tarea de comunicación y colabroación entre miembros del equipo fue uno de los aprendizajes destacados. 
+### Video About-the-Team  
 
-De igual forma la utilización de herramientas colaborativas como GitHub o Figma, las más destacadas, fue fundamental para la coordinación del trabajo al permitirnos una correcta administración del código y la visualización del diseño como también de la landing page. Así, se pudo aprender que el manejo de herramientas mejora organización, planificación y eficiencia.
+|**`Link To Video`**|>|link.link|
+|-----|----|----|
+
+#### 5.6 Conclusiones  
+Impacto en el Bienestar Mental de los Usuarios: El desarrollo de ZenFlicks permitió ofrecer una plataforma que combina entretenimiento audiovisual con el objetivo de mejorar el bienestar mental de los usuarios. La funcionalidad de recomendaciones personalizadas demostró ser efectiva para ayudar a los usuarios a aliviar el estrés y promover una actitud más positiva.
+
+Colaboración y Trabajo en Equipo: Durante el desarrollo del proyecto, el equipo trabajó de manera colaborativa, asignando roles claros y apoyándose mutuamente para superar desafíos técnicos y organizativos. La comunicación constante y las reuniones diarias fueron clave para garantizar el éxito del proyecto.
+
+Cumplimiento de Objetivos Técnicos: Se implementaron funcionalidades críticas como la generación de recomendaciones personalizadas, el sistema de foros y un flujo de autenticación robusto. Además, las pruebas de integración y carga garantizaron la estabilidad y rendimiento del sistema en entornos reales.
+
+Optimización de Procesos: La optimización de consultas a la base de datos y la implementación de un diseño de software modular basado en arquitecturas emergentes permitieron construir un sistema eficiente y escalable, capaz de manejar la carga esperada de usuarios.
+
+Satisfacción del Usuario Final: Las entrevistas y validaciones realizadas con los segmentos objetivo confirmaron que ZenFlicks cumple con sus necesidades, ofreciendo una experiencia amigable y adaptada a sus preferencias. El sistema de recomendaciones destacó por su relevancia y personalización.
+
+Fortalecimiento de Competencias: Este proyecto fortaleció habilidades clave en diseño de sistemas, desarrollo frontend y backend, pruebas de calidad, gestión de proyectos y trabajo en equipo, aportando a la formación profesional de los integrantes del equipo.
+
+Propuesta de Valor Competitiva: ZenFlicks se posiciona como una solución innovadora en el mercado de aplicaciones de bienestar mental al integrar entretenimiento con funcionalidades específicas para mejorar la salud mental, diferenciándose de otros competidores en el sector.
+
+### Bibiografía
+### Anexos
+Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=0-1&t=y8eCI9FRfjMTvZ6X-1
+Video de exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EctyfRFit8dDqTZzaAXPxb0B_ghGTx3ExnxbCbEjFsouRA?e=JwKKp8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 ### Video About-the-Team  
 
