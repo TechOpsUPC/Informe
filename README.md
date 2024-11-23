@@ -2901,7 +2901,7 @@ Link a pagina web desplegada:
 - ### 5.3.1 Diseño de entrevistas.
  #### Formato de preguntas para entrevistas de validacion 
  
- - ¿Qué opinas de la apariencia general del landing page y del mensaje que este transmite? ¿Te queda clara la propuesta de MindFlix para ayudar a los usuarios a mejorar su bienestar mental?
+ - ¿Qué opinas de la apariencia general del landing page y del mensaje que este transmite? ¿Te queda clara la propuesta de Zenflicks para ayudar a los usuarios a mejorar su bienestar mental?
  - ¿Las secciones en la página de inicio (como beneficios, testimonios, etc) te ayudan a comprender lo que ofrece la aplicación?
  - ¿Qué tan intuitiva te resulta la navegación en el landing page y el frontend? ¿Hay algo que te confunda?
  - ¿Te sientes motivado/a a registrarte en la plataforma al ver lo ofrecido? ¿Por qué o por qué no?
