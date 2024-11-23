@@ -2963,12 +2963,15 @@ Este documento presenta los hallazgos y recomendaciones para mejorar la usabilid
 
 ## 5.4 Video About-The-Product
 
-|**`Link To Video`**|>|[link.link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz)|
+|**`Link To Video`**|>|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215528_upc_edu_pe/EXTix_zQsdpPgB2yffKeUMUBkAWs2fHkAfJwHjvt-4U-2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n6gedz)|
 |-----|----|----|
 
 ### Video About-the-Team  
 
-|**`Link To Video`**|>|link.link|
+|**`Link To Video`**|>|[https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822503_upc_edu_pe/EV_1O17zlG5FraK-Hn62dq8BpIe8mb9D6b12rSrla0nEvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g8TTrX](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822503_upc_edu_pe/EV_1O17zlG5FraK-Hn62dq8BpIe8mb9D6b12rSrla0nEvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g8TTrX)|
+|-----|----|----|
+
+|**`FRONTEND DESPLEGADO`**|>|[https://zenflicks-55f56.web.app/](https://zenflicks-55f56.web.app/)|
 |-----|----|----|
 
 #### 5.6 Conclusiones  
@@ -2989,11 +2992,6 @@ Propuesta de Valor Competitiva: ZenFlicks se posiciona como una solución innova
 ### Bibiografía
 ### Anexos
 Figma: https://www.figma.com/design/fkqpbABKqDyemSE3UNr9An/Applicaciones-Web---ZenFlicks?node-id=0-1&t=y8eCI9FRfjMTvZ6X-1
+
 Video de exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EctyfRFit8dDqTZzaAXPxb0B_ghGTx3ExnxbCbEjFsouRA?e=JwKKp8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-
-### Video About-the-Team  
-
-|**`Link To Video`**|>|link.link|
-|-----|----|----|
-  
