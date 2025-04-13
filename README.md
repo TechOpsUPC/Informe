@@ -42,7 +42,7 @@ Producto: ZenFlicks
   
 | Versión | Fecha       | Autor                                  | Descripción de modificaciones |
 |---------|-------------|----------------------------------------|-------------------------------|
-| 1.0     | 07/09/2024  | Avila Palacios, Aaron                  | Capítulo I                    |
+| 1.0     | 07/09/2024  | Avila Palacios, Aaron Alexander                  | Capítulo I                    |
 | 2.0     | 28/09/2024  | Lastra Trinidad, Georgina              | Capítulo II                   |
 | 3.0     | 4/11/2024   | Pilares Pocohuanca, Maria              | Capítulo III                  |
 |  4.0    |  22/11/2024 | Miranda Sinarahua, Piero               | Capítulo IV                   |
